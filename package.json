@@ -1,0 +1,26 @@
+{
+  "name": "manuais-bagy",
+  "version": "1.0.0",
+  "description": "Repositório contendo os manuais do Bagy",
+  "license": "proprietary",
+  "author": "Bagy",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.5.0",
+    "typescript-eslint": "^8.46.4",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-tabs": "^0.7.3",
+    "vue": "^3.5.24"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0"
+  }
+}
