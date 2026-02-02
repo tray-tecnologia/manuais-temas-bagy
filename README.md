@@ -82,14 +82,7 @@ O deploy é realizado automaticamente via GitHub Actions para o GitHub Pages qua
 
 ### Como fazer deploy
 
-1. Crie uma nova tag:
-
-```bash
-git tag v1.0.0
-git push origin v1.0.0
-```
-
-2. Ou crie uma release pelo GitHub:
+1. Crie uma release pelo GitHub:
    - Acesse a aba **Releases** no repositório
    - Clique em **Draft a new release**
    - Crie uma nova tag (ex: `v1.0.0`)

@@ -1,25 +1,15 @@
 name: Deploy to GitHub Pages
 
 on:
-  # Executa quando uma nova tag é criada
-  push:
-    tags:
-      - 'v*'
-
-  # Executa quando uma release é publicada
   release:
     types: [published]
-
-  # Permite execução manual pelo GitHub
   workflow_dispatch:
 
-# Permissões necessárias para deploy no GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Permite apenas um deploy por vez
 concurrency:
   group: pages
   cancel-in-progress: false
