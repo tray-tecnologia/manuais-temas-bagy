@@ -3,7 +3,7 @@
 Outra parte importante de todas as lojas são as Formas de Pagamento. Cartão de Crédito, Débito em conta, Pix e Boleto bancário são as mais utilizadas hoje em dia por dezenas de lojas. Para configurar as formas de pagamento que serão aceitas pela sua loja acesse _**Configurações > Pagamento > Formas de Pagamento**_.
 
 ::: danger **Atenção**
-A Bagy disponibiliza vários intermediadores de pagamentos em sua plataforma. Alguns desses intermediadores necessitam de uma contratação prévia. Caso precise de mais ajuda para configurar formas de pagamento na sua loja, clique [**aqui (Em Breve)**](/) acessar um artigo da Bagy que trata exatamente dessa questão.
+A Bagy disponibiliza vários intermediadores de pagamentos em sua plataforma. Alguns desses intermediadores necessitam de uma contratação prévia. Caso precise de mais ajuda para configurar formas de pagamento na sua loja, clique [**aqui**](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/45521300968340-Configura%C3%A7%C3%B5es-gerais-das-formas-de-pagamento-da-sua-loja-Bagy-3-0) acessar um artigo da Bagy que trata exatamente dessa questão.
 :::
 
 ![image](/tema-padrao-3-0/configuracoes-pagamento.png)

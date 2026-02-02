@@ -40,7 +40,7 @@ Para saber mais sobre cadastro de produtos na plataforma, basta clicar [**aqui**
 :::
 
 ::: info **Recomendamos**
-As imagens para os produtos sejam criadas com o tamanho mínimo de 1000x1000px, seguindo as demais especificações da plataforma para imagens de produtos. Você pode ter acesso a um artigo sobre esse tópico clicando [**aqui (Em Breve)**.](/)
+As imagens para os produtos sejam criadas com o tamanho mínimo de 1000x1000px, seguindo as demais especificações da plataforma para imagens de produtos. Você pode ter acesso a um artigo sobre esse tópico clicando [**aqui**.](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/45521373321748-Como-inserir-imagens-e-v%C3%ADdeos-nos-produtos-da-sua-loja-Bagy-3-0)
 :::
 
 ::: danger **Atenção:**

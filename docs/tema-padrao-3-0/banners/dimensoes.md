@@ -60,5 +60,5 @@ Dimensões do banner: **1180x113 pixels**\
 ![image](/tema-padrao-3-0/banners-dimensoes-6.png)
 
 ::: info **Vale lembrar que:**
-Este banner não é cadastrado junto com os demais banners da loja, pois ele será vinculado exclusivamente aos produtos cadastrados no Desconto progressivo que deve ser configurado anteriormente, para que então seja associado um banner a promoção e exibido na página do produto. Para saber mais sobre desconto progressivo, clique [**aqui (Em Breve)**.](/)
+Este banner não é cadastrado junto com os demais banners da loja, pois ele será vinculado exclusivamente aos produtos cadastrados no Desconto progressivo que deve ser configurado anteriormente, para que então seja associado um banner a promoção e exibido na página do produto. Para saber mais sobre desconto progressivo, clique [**aqui**.](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/45521258940436-Como-configurar-um-desconto-progressivo-na-sua-loja-Bagy-3-0)
 :::
