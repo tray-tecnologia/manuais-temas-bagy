@@ -145,6 +145,7 @@ export const sidebarTemaPadrao30 = (basePath: string): DefaultTheme.SidebarItem[
             { text: 'Configurações', link: `configuracoes` },
           ],
         },
+        { text: 'Sanitização', link: 'sanitizacao' },
       ],
     },
 
