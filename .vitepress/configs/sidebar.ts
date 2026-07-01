@@ -1,161 +1,74 @@
-import type { DefaultTheme } from 'vitepress';
+import { DefaultTheme } from 'vitepress';
+import { sidebars } from './sidebars';
+import type { BrandSidebarItem, BrandSidebarMulti } from '../theme/types/sidebar';
 
-const normalizeBasePath = (basePath: string): string => {
-  if (basePath.endsWith('/')) {
-    return basePath.slice(0, -1);
+const mainLink: BrandSidebarItem = {
+  text: 'Apresentação',
+  link: '/temas',
+};
+
+/**
+ * Resolve if should return just link field or concat with base path
+ * @param base Base path
+ * @param link Link to verify
+ * @returns Link resolved
+ */
+const resolveLink = (base: string, link: string): string => {
+  if (link.startsWith('/')) return link;
+  return `${base}${link}`;
+};
+
+/**
+ * Get fist available link from theme sidebar
+ * @param items Sidebar items to iterate
+ * @param base Base path
+ * @returns full path to first link on theme sidebar
+ */
+const getFirstLink = (items: DefaultTheme.SidebarItem[], base: string): string | undefined => {
+  const first = items[0];
+
+  if (!first) return undefined;
+
+  if (first.link) {
+    return resolveLink(base, first.link);
   }
-  return basePath;
+
+  if (first.items) {
+    return getFirstLink(first.items, first.base ?? base);
+  }
+
+  return undefined;
 };
 
-export const sidebarDefault = (): DefaultTheme.SidebarItem[] => {
-  return [
-    { text: 'Apresentação', link: 'temas' },
-    { text: 'Tema Padrão Bagy 3.0', link: '/tema-padrao-3-0/apresentacao/inicio' },
-  ];
+/**
+ * Get main sidebar with links to all themes available
+ * @returns
+ */
+const generateMainSidebar = (themes: BrandSidebarMulti): BrandSidebarItem[] => {
+  const themesLinks = Object.entries(themes)
+    .map<BrandSidebarItem>(([key, manual]) => {
+      return {
+        text: manual.text,
+        link: getFirstLink(manual.items, key),
+        brands: manual.brands,
+      };
+    })
+    .filter(Boolean);
+
+  return [mainLink, ...themesLinks];
 };
 
-export const sidebarTemaPadrao30 = (basePath: string): DefaultTheme.SidebarItem[] => {
-  basePath = normalizeBasePath(basePath);
-  return [
-    {
-      text: 'Apresentação',
-      base: `${basePath}/apresentacao/`,
-      items: [
-        { text: 'Início', link: 'inicio' },
-        { text: 'Manual', link: 'manual' },
-        { text: 'Suporte', link: 'suporte' },
-        { text: 'Instalação', link: 'instalacao' },
-      ],
-    },
-
-    {
-      text: 'Painel do tema',
-      base: `${basePath}/painel-do-tema/`,
-      items: [
-        { text: 'Painel Modernizado', link: 'painel-modernizado' },
-
-        {
-          text: 'Configurações Gerais',
-          base: `${basePath}/painel-do-tema/configuracoes-gerais/`,
-          collapsed: true,
-          items: [
-            { text: 'Início', link: `inicio` },
-            { text: 'Geral', link: `geral` },
-            { text: 'Imagens na listagem', link: `imagens-na-listagem` },
-            { text: 'Logo', link: `logo` },
-            { text: 'Tipografia', link: `tipografia` },
-            { text: 'Cores', link: `cores` },
-            { text: 'Selos', link: `selos` },
-            { text: 'Redes Sociais', link: `redes-sociais` },
-            { text: 'Pagamentos', link: `pagamentos` },
-            { text: 'Estilo Customizado', link: `estilo-customizado` },
-          ],
-        },
-
-        { text: 'Cabeçalho', link: 'cabecalho' },
-        { text: 'Rodapé', link: 'rodape' },
-
-        {
-          text: 'Página Inicial',
-          base: `${basePath}/painel-do-tema/pagina-inicial/`,
-          collapsed: true,
-          items: [
-            { text: 'Início', link: `inicio` },
-            { text: 'Full Banner', link: `full-banner` },
-            { text: 'Barra de Informações', link: `barra-de-informacoes` },
-            { text: 'Barra de Informações Customizada', link: `barra-de-informacoes-customizada` },
-            { text: 'Linha de Banners', link: `linha-de-banners` },
-            { text: 'Grade de Banners', link: `grade-de-banners` },
-            { text: 'Vitrine', link: `vitrine` },
-            { text: 'Sobre a Loja', link: `sobre-a-loja` },
-            { text: 'Notícias', link: `noticias` },
-            { text: 'Marcas', link: `marcas` },
-            { text: 'Avaliações da Loja', link: `avaliacoes-da-loja` },
-            { text: 'Avaliações Customizadas da Loja', link: `avaliacoes-customizadas` },
-            { text: 'Vídeo', link: `video` },
-            { text: 'Galeria de Imagens', link: `galeria-imagens` },
-          ],
-        },
-
-        {
-          text: 'Página de Catalogo',
-          base: `${basePath}/painel-do-tema/pagina-de-catalogo/`,
-          collapsed: true,
-          items: [
-            { text: 'Início', link: `inicio` },
-            { text: 'Principal da Categoria', link: `principal-da-categoria` },
-          ],
-        },
-
-        {
-          text: 'Página de Produto',
-          base: `${basePath}/painel-do-tema/pagina-de-produto/`,
-          collapsed: true,
-          items: [
-            { text: 'Início', link: `inicio` },
-            { text: 'Produto', link: `produto` },
-            { text: 'Compre Junto', link: `compre-junto` },
-            { text: 'Abas de Produtos', link: `abas-de-produtos` },
-            { text: 'Produtos Relacionados', link: `produtos-relacionados` },
-            { text: 'Produtos Visualizados Recentemente', link: `produtos-visualizados-recentemente` },
-          ],
-        },
-      ],
-    },
-
-    {
-      text: 'Configurações',
-      base: `${basePath}/configuracoes/`,
-      items: [
-        { text: 'Imagens Padrões', link: 'imagens-padroes' },
-        { text: 'Carrinho Lateral', link: 'carrinho-lateral' },
-        { text: 'Selos dos Produtos', link: 'selos-dos-produtos' },
-        { text: 'Imagem na Vitrine (thumb)', link: 'tamanho-da-vitrine' },
-        { text: 'Textos e Informações', link: 'textos-e-informacoes' },
-        { text: 'Páginas Extras', link: 'paginas-extras' },
-        { text: 'Formas de Pagamento', link: 'formas-de-pagamento' },
-        { text: 'Aparência do Checkout', link: 'aparencia-do-checkout' },
-      ],
-    },
-
-    {
-      text: 'Banners',
-      base: `${basePath}/banners/`,
-      items: [
-        { text: 'Localização na Plataforma', link: 'localizacao-na-plataforma' },
-        { text: 'Dimensões', link: 'dimensoes' },
-      ],
-    },
-
-    {
-      text: 'Edição no Código',
-      base: `${basePath}/edicao-no-codigo/`,
-      items: [
-        { text: 'Editando o código do seu tema', link: 'edicao-no-codigo-do-tema' },
-        {
-          text: 'Criar novas seções e blocos',
-          base: `${basePath}/edicao-no-codigo/criar-novas-secoes-e-blocos/`,
-          collapsed: true,
-          items: [
-            { text: 'Início', link: `inicio` },
-            { text: 'Editor', link: `editor` },
-            { text: 'Global', link: `global` },
-            { text: 'Seções', link: `secoes` },
-            { text: 'Blocos', link: `blocos` },
-            { text: 'Configurações', link: `configuracoes` },
-          ],
-        },
-        { text: 'Sanitização', link: 'sanitizacao' },
-      ],
-    },
-
-    {
-      text: 'Considerações Finais',
-      base: `${basePath}/consideracoes-finais/`,
-      items: [
-        { text: 'SSL - Certificado de Segurança', link: 'ssl-certificado-de-seguranca' },
-        { text: 'Parabéns!', link: 'parabens' },
-      ],
-    },
-  ];
-};
+/**
+ * Returns complete sidebar.
+ * Main sidebar is created automatically based on themes sidebar.
+ *
+ * DO NOT change this manually!
+ * @returns
+ */
+export const getSidebar = (): BrandSidebarMulti => ({
+  '/': {
+    base: '/',
+    items: generateMainSidebar(sidebars),
+  },
+  ...sidebars,
+});

@@ -1,0 +1,30 @@
+server {
+
+    listen 80;
+    listen 443 ssl;
+    http2 on;
+
+    access_log /var/log/nginx/access.log;
+    error_log  /var/log/nginx/error.log;
+
+    ssl_certificate      /etc/nginx/ssl/app.crt;
+    ssl_certificate_key  /etc/nginx/ssl/app.key;
+    ssl_protocols        TLSv1.2 TLSv1.3;
+
+    server_name ${FRONT_SERVER_NAME_TRAY};
+
+    index index.html index.htm;
+    charset utf-8;
+
+    location / {
+        proxy_pass http://host.docker.internal:${FRONT_PORT};
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Host $server_name;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection $connection_upgrade;
+        proxy_redirect off;
+    }
+
+}

@@ -1,26 +1,33 @@
 {
-  "name": "manuais-bagy",
-  "version": "1.0.3",
-  "description": "Repositório contendo os manuais do Bagy",
+  "name": "manuais-temas",
+  "version": "1.0.0",
+  "description": "Repositório contendo os manuais do temas das Tray e Bagy",
   "license": "proprietary",
-  "author": "Bagy",
+  "author": "Tray",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev",
+    "dev": "vitepress dev --host",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
   "devDependencies": {
+    "@types/markdown-it-container": "^4.0.0",
     "@types/node": "^25.1.0",
-    "eslint": "^9.39.1",
+    "eslint": "^9.39.4",
     "eslint-config-prettier": "^10.1.8",
-    "globals": "^16.5.0",
-    "typescript-eslint": "^8.46.4",
-    "vitepress": "^1.6.4",
-    "vitepress-plugin-tabs": "^0.7.3",
-    "vue": "^3.5.24"
+    "globals": "^17.6.0",
+    "typescript-eslint": "^8.61.0",
+    "vitepress": "2.0.0-alpha.17",
+    "vitepress-plugin-tabs": "^0.9.0",
+    "vue": "^3.5.38"
   },
   "dependencies": {
+    "markdown-it": "^14.2.0",
+    "markdown-it-container": "^4.0.0",
     "medium-zoom": "^1.1.0"
+  },
+  "engines": {
+    "npm": ">=11.12.1",
+    "node": ">=24.15.0"
   }
 }
