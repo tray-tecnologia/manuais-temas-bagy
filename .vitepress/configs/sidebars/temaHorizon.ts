@@ -160,6 +160,7 @@ export const getTemaHorizonSidebar = (basePath: string): DefaultTheme.SidebarIte
       text: 'Considerações Finais',
       base: `${basePath}/consideracoes-finais/`,
       items: [
+        { text: 'Loja segura', link: 'loja-segura' },
         { text: 'SSL - Certificado de Segurança', link: 'ssl-certificado-de-seguranca' },
         { text: 'Parabéns!', link: 'parabens' },
       ],

@@ -14,6 +14,13 @@ const platformData = computed((): DefaultTheme.NavItemWithLink => {
     };
   }
 
+  if (brand === 'bling') {
+    return {
+      text: 'Bling',
+      link: 'https://www.bling.com.br',
+    };
+  }
+
   return {
     text: 'Tray',
     link: 'https://tray.com.br',

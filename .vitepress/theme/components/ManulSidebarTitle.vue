@@ -12,7 +12,7 @@ const { findMatchingKey } = useSidebar();
 const sidebarTitle = computed(() => {
   const currentPath = ensureStartingSlash(page.value.relativePath);
 
-  if (currentPath.startsWith('/temas') || !theme.value.sidebar) {
+  if (currentPath === '/temas.md' || !theme.value.sidebar) {
     return null;
   }
 

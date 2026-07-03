@@ -1,4 +1,5 @@
 import { DefaultTheme } from 'vitepress/theme';
+import { Brand } from './brand';
 
 interface NotAllowedOptions {
   title?: string;
@@ -16,10 +17,7 @@ interface PlatformOptions {
   colors: Record<string, string>;
 }
 
-interface Platform {
-  tray: PlatformOptions;
-  bagy: PlatformOptions;
-}
+type Platform = Record<Brand, PlatformOptions>;
 
 export interface ManualsThemeConfig extends DefaultTheme.Config {
   notAllowed?: NotAllowedOptions;

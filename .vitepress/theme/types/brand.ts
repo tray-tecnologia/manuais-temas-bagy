@@ -1,1 +1,1 @@
-export type Brand = 'tray' | 'bagy';
+export type Brand = 'tray' | 'bagy' | 'bling';

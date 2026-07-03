@@ -57,6 +57,24 @@ export default defineConfig<ManualsThemeConfig>({
           heroDark: '#255a5c',
         },
       },
+      bling: {
+        logo: {
+          light: '/assets/bling/logo.svg',
+          dark: '/assets/bling/logo.dark.svg',
+          alt: 'manuais temas',
+        },
+        hero: {
+          light: '/assets/bling/hero.svg',
+          dark: '/assets/bling/hero.dark.svg',
+          alt: 'Manuais Bling',
+        },
+        favicon: '/assets/bling/favicon.png',
+        colors: {
+          primary: '#34AD61',
+          hero: '#DCFAE6',
+          heroDark: '#1D733C',
+        },
+      },
     },
 
     nav: nav(),
@@ -97,7 +115,7 @@ export default defineConfig<ManualsThemeConfig>({
 
   vite: {
     server: {
-      allowedHosts: ['manuais.tray.local', 'manuais.bagy.local'],
+      allowedHosts: ['manuais.tray.local', 'manuais.bagy.local', 'manuais.bling.local'],
     },
     resolve: {
       alias: [
