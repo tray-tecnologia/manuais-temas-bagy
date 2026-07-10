@@ -2,7 +2,6 @@
 import { onMounted, watch } from 'vue';
 import { useData, useRoute, useRouter } from 'vitepress';
 import DefaultTheme from 'vitepress/theme';
-import mediumZoom from 'medium-zoom';
 import { useBrand } from './composables/useBrand';
 import { useSidebar } from './composables/useSidebar';
 import PlatformLogo from './components/PlatformLogo.vue';
@@ -10,6 +9,7 @@ import PlatformHeroImage from './components/PlatformHeroImage.vue';
 import type { ManualsThemeConfig } from './types/configs';
 import PlatformHeroInfo from './components/PlatformHeroInfo.vue';
 import ManulSidebarTitle from './components/ManulSidebarTitle.vue';
+import mediumZoom from '../plugins/medium-zoom-lightbox/zoom';
 
 const NOT_ALLOWED_PATH = '/not-allowed';
 const { Layout } = DefaultTheme;

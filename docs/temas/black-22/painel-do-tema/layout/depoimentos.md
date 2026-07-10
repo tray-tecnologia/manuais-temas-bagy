@@ -1,6 +1,6 @@
 # Depoimentos
 
-![](/black-22/painel-tema-layout-depoimentos.png)
+![](/black-22/painel-tema-layout-depoimentos.avif)
 
 Esse grupo contém as configurações da exibição dos depoimentos de clientes na página inicial.
 

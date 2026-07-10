@@ -11,12 +11,12 @@ Em **Blocos da seção** temos:
 * **Minha conta e Carrinho:** exibe os blocos de **Minha Conta** e **Carrinho**. Sendo possível escolher se deseja exibir o **Minha Conta** como **Texto e ícone** ou somente **ícone** e se deseja exibir somente o **ícone** do **Carrinho** ou **Mostrar contador** de quantidade de itens presente.
 * **Ícones customizados:** possível escolher o tamanho do ícones, variando de 16 à 48px, e cadastrar uma imagem para cada ícone.
 
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho.png)
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho-2.png)
+![image](/tema-padrao-bagy-3/painel-tema-cabecalho.avif)
+![image](/tema-padrao-bagy-3/painel-tema-cabecalho-2.avif)
 
 Lembrando que para esses três blocos é possível fazer a sua reordenação, de acordo com o desejo de como exibir o cabeçalho.&#x20;
 
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho-2.gif)
+![](/tema-padrao-bagy-3/painel-tema-cabecalho-2.webm)
 
 
 Em **Configurações da seção** temos:
@@ -25,7 +25,7 @@ Em **Configurações da seção** temos:
 * **Conteúdo da linha de mensagem:** possível inserir/alterar o texto que deseja exibir na linha de mensagem.
 * **Menu de navegação:** possível configurar os itens do menu principal da loja. Escolhendo entre exibir categorias, páginas ou criar um menu personalizado.
 
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho-3.png)
+![image](/tema-padrao-bagy-3/painel-tema-cabecalho-3.avif)
 
 Ao acessar **Menu de navegação**, é possível realizar algumas configurações, tais como:
 
@@ -37,7 +37,7 @@ Ao acessar **Menu de navegação**, é possível realizar algumas configuraçõe
 * **Nível das categorias:** exibido se em **Menu de navegação** estiver selecionado **Categorias**. É possível escolher como deseja exibir o **Menu de Categorias**, se quer exibindo somente **Primeiro nível, Segundo nível ou Terceiro nível.**
 * **Estilo do menu:** possível escolher como deseja o **Estilo do menu**: se **Padrão** (exibindo os itens) ou **Recolhido** (exibe somente o ícone e ao clicar exibe os itens).
 
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho-4.png)
+![image](/tema-padrao-bagy-3/painel-tema-cabecalho-4.avif)
 
 Caso selecione **Personalizado** em **Menu de navegação**, exibirá o bloco para inserir os itens do menu.
 
@@ -56,6 +56,6 @@ Clique em **Adicionar Item** que exibirá um novo bloco com os seguintes itens:
 
 Depois de tudo configurado basta clicar no botão **Salvar**. Ou caso queira descartar os ajustes clique no botão **Cancelar**.
 
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho-5.png)
+![image](/tema-padrao-bagy-3/painel-tema-cabecalho-5.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-cabecalho-6.png)
+![image](/tema-padrao-bagy-3/painel-tema-cabecalho-6.avif)

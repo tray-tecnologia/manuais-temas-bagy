@@ -4,4 +4,4 @@ Essa Coleção de Temas utiliza uma variável de texto que precisa ser configura
 
 Para configurar essa variável basta acessar _**Configurações > Textos/Lang**_ como mostra a imagem abaixo.
 
-![](/black-22/configuracoes-textos-informacoes.jpg)
+![](/black-22/configuracoes-textos-informacoes.avif)

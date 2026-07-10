@@ -7,7 +7,7 @@ O tamanho que o tema utiliza é **450x450 pixels**.
 
 Entre em contato com a plataforma solicitando esse aumento através de abertura de chamado, como visto [aqui](../apresentacao/suporte).
 
-![image](/tema-horizon/configuracoes-thumb.png)
+![image](/tema-horizon/configuracoes-thumb.avif)
 
 ::: info **Recomendamos**
 As imagens para os produtos sejam criadas com o tamanho mínimo de 1000x1000px, seguindo as demais especificações da plataforma para imagens de produtos. Você pode ter acesso a um artigo sobre esse tópico clicando [**aqui**](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/6734142156699-Como-inserir-imagens-e-v%C3%ADdeos-nos-produtos).

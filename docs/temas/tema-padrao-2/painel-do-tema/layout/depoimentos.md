@@ -1,6 +1,6 @@
 # Depoimentos
 
-![](/tema-padrao-2/painel-tema-layout-depoimentos.png)
+![](/tema-padrao-2/painel-tema-layout-depoimentos.avif)
 
 Esse grupo contém as configurações da exibição dos depoimentos de clientes na página inicial.
 

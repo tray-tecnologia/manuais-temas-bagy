@@ -2,4 +2,4 @@
 
 Nesse item é possível editar algumas configurações que serão aplicadas para as páginas de categoria e busca da loja. Veremos como a seguir.
 
-![image](/tema-padrao-3/painel-tema-pagina-catalogo-inicio.png)
+![image](/tema-padrao-3/painel-tema-pagina-catalogo-inicio.avif)

@@ -1,6 +1,6 @@
 # Criar novas seções e blocos
 
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-inicio.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-inicio.avif)
 
 O Tema Padrão 3.0 possui o recurso de drag and drop. Para criar esse recurso criamos um novo editor do tema com várias seções que podem ter sua ordem alterada para melhor atender as necessidades dos lojistas.&#x20;
 

@@ -21,4 +21,4 @@ Utilize esse campo se tiver conhecimento de CSS. Código inválido ou mal escrit
 Caso queira testar alterações sem que isso reflita para os clientes, duplique o tema e faça as edições no tema duplicado, ou saia da página sem salvar.
 :::
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-estilo-customizado.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-estilo-customizado.avif)

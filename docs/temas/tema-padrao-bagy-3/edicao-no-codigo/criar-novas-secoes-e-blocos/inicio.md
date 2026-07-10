@@ -1,6 +1,6 @@
 # Criar novas seções e blocos
 
-![image](/tema-padrao-bagy-3/edicao-codigo-criar-novas-secoes-inicio.png)
+![image](/tema-padrao-bagy-3/edicao-codigo-criar-novas-secoes-inicio.avif)
 
 O Tema Padrão Bagy 3.0 possui o recurso de drag and drop. Para criar esse recurso criamos um novo editor do tema com várias seções que podem ter sua ordem alterada para melhor atender as necessidades dos lojistas.
 

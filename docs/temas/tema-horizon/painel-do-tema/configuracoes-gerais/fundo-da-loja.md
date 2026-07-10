@@ -10,4 +10,4 @@ Configura a imagem de fundo exibida em toda a loja.
   * **Fluida** — a imagem ocupa 100% da largura, mantendo proporção
   * **Preencher toda a tela** — a imagem cobre todo o fundo, podendo ser cortada
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-fundo-loja.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-fundo-loja.avif)

@@ -6,5 +6,5 @@ Leia todo o conteúdo dessa documentação e siga os passo-a-passos para que seu
 
 Você também pode optar por adquirir novos temas através da nossa [**Loja de Temas Tray**](https://temas.tray.com.br/).&#x20;
 
-![](/tema-padrao-2/apresentacao-manual.jpg)
+![](/tema-padrao-2/apresentacao-manual.avif)
 

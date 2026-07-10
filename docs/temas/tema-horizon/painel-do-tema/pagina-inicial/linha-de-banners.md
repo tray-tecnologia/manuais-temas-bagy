@@ -25,10 +25,10 @@ Cada bloco define uma posição de banner a ser exibida. É possível adicionar 
 Os blocos podem ser reordenados para definir a sequência de exibição. \
 Também podem ser ocultos ao clicar no ícone de olho.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-linha-de-banners.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-linha-de-banners.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-linha-de-banners-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-linha-de-banners-2.avif)

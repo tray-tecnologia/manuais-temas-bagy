@@ -18,9 +18,9 @@ Ao habilitar a configuração **Usar selos com texto**, você poderá inserir os
 * **Selo frete grátis:** para os produtos que oferecerão frete grátis.
 * **Selo adicional:** utilizado para uma ocasião especial, como a Black Friday ou alguma promoção.
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-selos.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-selos.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-selos-2.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-selos-2.avif)
 
 ::: info Mais
 Para saber mais sobre os selos do produto [clique aqui](../../configuracoes/selos-dos-produtos).

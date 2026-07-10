@@ -2,15 +2,15 @@
 
 Com a opção de exibição dos selos habilitada via painel de edição do tema, serão mostrados junto a imagem do produto nas vitrines os selos de % de desconto, desconto progressivo, destaque, lançamento (novidade), frete grátis, e adicional.
 
-![](/black-22/configuracoes-selos-produtos.png)
+![](/black-22/configuracoes-selos-produtos.avif)
 
 **Selo de % Desconto:** Os selos de % de desconto será exibido nos produtos que estejam cadastrados com um valor promocional. Essa exibição é feita de forma automática pelo tema.
 
-![](/black-22/configuracoes-selos-produtos-2.png)
+![](/black-22/configuracoes-selos-produtos-2.avif)
 
 **Selo de Desconto Progressivo:** O selo que exibi o símbolo de uma tag será exibidos em produtos com desconto progressivo. Essa exibição é feita de forma automática pelo tema.
 
-![](/black-22/configuracoes-selos-produtos-3.png)
+![](/black-22/configuracoes-selos-produtos-3.avif)
 
 **Selos de Destaque, Lançamento, Frete Grátis e Adicional (Extra):** Para ter esses selos exibidos em sua loja é necessário cadastra-los através da plataforma. O local e o modo de cadastrar os selos de: destaque, lançamento, frete grátis e adicional, foi apresentado no tópico anterior: [imagens-padroes](imagens-padroes "mention").
 
@@ -18,13 +18,13 @@ Em nossa loja de demonstração ([**Black 22**](https://demo-black-22.commercesu
 
 Segue abaixo os arquivo dos selos para download:
 
-[extra.png](/black-22/configuracoes-selos-produtos-4.png)
+[extra.png](/black-22/configuracoes-selos-produtos-4.avif)
 
-[destaque.png](/black-22/configuracoes-selos-produtos-5.png)
+[destaque.png](/black-22/configuracoes-selos-produtos-5.avif)
 
-[frete.png](/black-22/configuracoes-selos-produtos-6.png)
+[frete.png](/black-22/configuracoes-selos-produtos-6.avif)
 
-[lancamento.png](/black-22/configuracoes-selos-produtos-7.png)
+[lancamento.png](/black-22/configuracoes-selos-produtos-7.avif)
 
 Você pode criar novas artes personalizadas para os selos nas medidas recomendados e inseri-los em sua loja através do painel da plataforma.
 

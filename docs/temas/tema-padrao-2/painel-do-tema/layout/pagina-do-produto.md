@@ -1,6 +1,6 @@
 # Página do Produto
 
-![](/tema-padrao-2/painel-tema-layout-pagina-produto.png)
+![](/tema-padrao-2/painel-tema-layout-pagina-produto.avif)
 
 Esse grupo permite configurar a exibição de alguns elementos nas páginas dos produtos.
 

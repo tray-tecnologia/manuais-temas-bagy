@@ -11,11 +11,11 @@ Em **Blocos da seção** temos:
 * **Pagamento e Segurança:** exibe as formas de pagamento aceitas pela loja e os seus selos de segurança, sendo possível habilitar para exibir o bloco ou não e alterar o seu titulo. Para saber como cadastrar as formas de pagamento [clique aqui](../configuracoes/formas-de-pagamento).
 * **Redes Sociais:** exibe as redes sociais da loja, sendo possível alterar o titulo do bloco. Para saber como cadastrar esses itens [clique aqui](configuracoes-gerais/redes-sociais).
 
-![image](/tema-padrao-bagy-3/painel-tema-rodape.png)
+![image](/tema-padrao-bagy-3/painel-tema-rodape.avif)
 
 Lembrando que para esses blocos é possível fazer a sua reordenação, de acordo com o desejo de como exibir o rodapé.&#x20;
 
-![image](/tema-padrao-bagy-3/painel-tema-rodape-2.gif)
+![](/tema-padrao-bagy-3/painel-tema-rodape-2.webm)
 
 Em **Configurações da seção** temos:
 
@@ -24,6 +24,6 @@ Em **Configurações da seção** temos:
 * **Subtítulo da newsletter:** possível editar o subtitulo da newsletter. Lembrando que se deixar vazio não será exibido o subtítulo.
 * **Texto do botão da newsletter:** possível editar o texto do botão da newsletter. Lembrando que se deixar vazio será exibido o texto padrão do tema **Eu quero!.**
 
-![image](/tema-padrao-bagy-3/painel-tema-rodape-3.png)
+![image](/tema-padrao-bagy-3/painel-tema-rodape-3.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-rodape-4.png)
+![image](/tema-padrao-bagy-3/painel-tema-rodape-4.avif)

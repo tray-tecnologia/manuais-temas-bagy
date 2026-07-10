@@ -2,6 +2,6 @@
 
 Neste item é possível visualizar a imagem da Logo, da Logo Mobile e do Favicon cadastrados pelo painel da plataforma em **Imagens Padrões** e que serão utilizados no tema. Não sendo possíveis edições.
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-logo.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-logo.avif)
 
 Para saber mais sobre as Imagens Padrões [clique aqui.](../../configuracoes/imagens-padroes)

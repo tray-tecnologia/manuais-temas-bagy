@@ -6,4 +6,4 @@ Você poderá alterar as informações cadastradas para cada uma das páginas, c
 
 Essas páginas serão listadas no rodapé da loja. Para saber mais sobre essa funcionalidade da plataforma, clique [**aqui**](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/42815362968475-Criando-p%C3%A1ginas-internas-com-Intelig%C3%AAncia-Artificial).
 
-![](/tema-padrao-2/configuracoes-paginas-extras.png)
+![](/tema-padrao-2/configuracoes-paginas-extras.avif)

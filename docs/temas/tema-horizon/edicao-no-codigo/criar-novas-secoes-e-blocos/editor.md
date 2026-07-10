@@ -1,6 +1,6 @@
 # Editor
 
-![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor.png)
+![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor.avif)
 
 O editor do Tema Horizon foi criado pensando no recurso drag and drop desde o início. Assim conseguimos otimizar cada parte dele para que funcione da melhor maneira possível.&#x20;
 
@@ -34,4 +34,4 @@ A pasta `configs/editor` guarda as configurações das seções que são carrega
 
 O print abaixo mostra essa estrutura, focando principalmente nessa pasta `configs/editor` onde pode ser visto todos as seções que o Tema Horizon disponibiliza.
 
-![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor-2.png)
+![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor-2.avif)

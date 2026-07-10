@@ -13,10 +13,10 @@ Esse bloco depende do plano contratado pela loja.
 
 Caso sua loja possua essa funcionalidade, acesse pelo painel da plataforma em **Marketing > Engajamento > Avaliações da loja** e faça as configurações necessárias.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-avaliacoes.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-avaliacoes.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-avaliacoes-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-avaliacoes-2.avif)

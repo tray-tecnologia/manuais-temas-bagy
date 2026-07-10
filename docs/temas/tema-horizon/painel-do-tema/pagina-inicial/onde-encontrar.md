@@ -18,9 +18,9 @@ Cada bloco representa uma loja ou representante. É possível adicionar até **5
 
 Os blocos podem ser reordenados para definir a sequência de exibição.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-2.avif)
 
 ## Configurações da seção
 
@@ -52,12 +52,12 @@ Os blocos podem ser reordenados para definir a sequência de exibição.
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-onde-encontrar-5.avif)

@@ -2,7 +2,7 @@
 
 Com a opção de exibição dos selos habilitada via painel de edição do tema, serão exibidos junto a imagem do produto nas vitrines os selos de porcentagem de desconto, destaque, lançamento, frete grátis e adicional.
 
-![image](/tema-horizon/configuracoes-selos.png)
+![image](/tema-horizon/configuracoes-selos.avif)
 
 Os selos são exibidos como texto e cor de fundo e podem ser cadastrados/editados pelo editor.
 
@@ -10,7 +10,7 @@ Os selos são exibidos como texto e cor de fundo e podem ser cadastrados/editado
 
 **Selo de Porcentagem Desconto:** O selo de % de desconto será exibido nos produtos que estejam cadastrados com um valor promocional. Essa exibição é feita de forma automática pelo tema.
 
-![image](/tema-horizon/configuracoes-selos-2.png)
+![image](/tema-horizon/configuracoes-selos-2.avif)
 
 ***
 
@@ -19,11 +19,11 @@ Os selos são exibidos como texto e cor de fundo e podem ser cadastrados/editado
 :::tabs
 == Bagy
 
-![image](/tema-horizon/configuracoes-selos-3.png)
+![image](/tema-horizon/configuracoes-selos-3.avif)
 
 == Tray
 
-![image](/tema-horizon/configuracoes-selos-tray.png)
+![image](/tema-horizon/configuracoes-selos-tray.avif)
 
 :::
 

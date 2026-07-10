@@ -7,10 +7,10 @@ Seção para exibir um bloco personalizado.
 * **Identificação da seção:** rótulo interno para identificar a seção no painel do tema. Não aparece na loja.
 * **Conteúdo html:** possível inserir conteúdo HTML para exibir na loja, sendo possível inserir imagem, textos, entre outros.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-html-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-html-2.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-html.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-html.avif)

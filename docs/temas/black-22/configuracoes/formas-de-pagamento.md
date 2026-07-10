@@ -8,14 +8,14 @@ Outra parte importante de todas as lojas são as Formas de Pagamento. Cartão de
 A Tray disponibiliza vários intermediadores de pagamentos em sua plataforma. Alguns desses intermediadores necessitam de uma contratação prévia. Caso precise de mais ajuda para configurar formas de pagamento na sua loja, clique [**aqui**](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/6734720000795-Formas-de-Pagamento-Configura%C3%A7%C3%B5es-Gerais) acessar um artigo da Tray que trata exatamente dessa questão.
 :::
 
-![](/black-22/configuracoes-formas-pagamento.jpg)
+![](/black-22/configuracoes-formas-pagamento.avif)
 
 **Como ativar a exibição das formas de pagamento na página do produto**
 
-![](/black-22/configuracoes-formas-pagamento-2.png)
+![](/black-22/configuracoes-formas-pagamento-2.avif)
 
 \
 As formas de pagamento na página do produto (como mostra a imagem acima), só serão exibidas se a configuração de visualização das formas de pagamento estiver selecionada como **Lista aberta**. Para realizar essa configuração, na plataforma da Tray, vá até o menu de _**Configurações > Configurações Gerais > Pagamentos**_. Essa configuração precisa estar selecionada como **Lista aberta** para ser exibida corretamente em sua loja, como mostra a imagem abaixo:
 
-![](/black-22/configuracoes-formas-pagamento-3.png)
+![](/black-22/configuracoes-formas-pagamento-3.avif)
 

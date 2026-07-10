@@ -1,6 +1,6 @@
 # Apresentação
 
-![](/tema-padrao-2/apresentacao-inicio.jpg)
+![](/tema-padrao-2/apresentacao-inicio.avif)
 
 O conteúdo deste manual e suas instruções se aplicam ao **Tema Padrão 2.0**. \
 Você pode acessar a loja de demonstração deste tema através do link abaixo:

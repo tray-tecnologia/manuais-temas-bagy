@@ -41,8 +41,8 @@ Configura os selos exibidos nos cards de produto, indicando promoção, lançame
 
 Para saber como habilitar os selos nos produtos acesse: [Selos](../../configuracoes/selos-dos-produtos)
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-selos.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-selos.avif)
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-selos-2.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-selos-2.avif)
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-selos-3.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-selos-3.avif)

@@ -35,7 +35,7 @@ Uma configuração do tipo `checkbox` cria um campo checkbox. Essa configuraçã
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes.avif)
 :::
 
 #### radio
@@ -69,7 +69,7 @@ Uma configuração do tipo `radio` cria um campo radio. Essa configuração pode
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-2.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-2.avif)
 :::
 
 #### range
@@ -100,7 +100,7 @@ Uma configuração do tipo `range` cria um campo slider. Essa configuração pod
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-3.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-3.avif)
 :::
 
 #### select
@@ -140,7 +140,7 @@ Uma configuração do tipo `select` cria um campo select. Essa configuração po
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-4.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-4.avif)
 :::
 
 #### text
@@ -166,7 +166,7 @@ Uma configuração do tipo `text` cria um campo de texto. Essa configuração po
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-5.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-5.avif)
 :::
 
 #### rich\_text
@@ -186,7 +186,7 @@ Uma configuração do tipo `rich_text` cria um campo de texto multilinhas que pe
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-6.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-6.avif)
 :::
 
 #### image\_picker
@@ -205,7 +205,7 @@ Uma configuração do tipo `image_picker` cria um campo que permite o usuário s
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-7.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-7.avif)
 :::
 
 #### color\_picker
@@ -254,7 +254,7 @@ Uma configuração do tipo `standard_images` cria uma visualização de uma imag
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-8.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-8.avif)
 :::
 
 #### header
@@ -278,7 +278,7 @@ Uma configuração do tipo `header` cria um cabeçalho dentro do bloco ou da se�
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-9.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-9.avif)
 :::
 
 #### paragraph
@@ -300,5 +300,5 @@ Uma configuração do tipo `paragraph` cria um paragrafo dentro das configuraç�
 ```
 
 == Saída
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-10.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-configuracoes-10.avif)
 :::

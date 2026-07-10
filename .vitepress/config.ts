@@ -6,6 +6,7 @@ import { ManualsThemeConfig } from './theme/types/configs';
 import { fileURLToPath } from 'node:url';
 import { mediumZoomLightbox } from './plugins/medium-zoom-lightbox';
 import { brandsPlugin } from './plugins/theme-brands/md';
+import { expandImageMedia } from './plugins/expand-image-media';
 
 export default defineConfig<ManualsThemeConfig>({
   title: 'Manuais Temas',
@@ -108,6 +109,14 @@ export default defineConfig<ManualsThemeConfig>({
   markdown: {
     config: (md) => {
       md.use(mediumZoomLightbox);
+      md.use(expandImageMedia, {
+        video: {
+          attributes: {
+            playsinline: false,
+            'data-zoomable': true,
+          },
+        },
+      });
       md.use(tabsMarkdownPlugin);
       md.use(brandsPlugin);
     },

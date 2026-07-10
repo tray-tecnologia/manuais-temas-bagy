@@ -6,6 +6,6 @@ Esse item configura a exibição dos Produtos Visualizados Recentemente na pági
 
 * **Título:** edita o titulo do bloco. Lembrando que se deixar vazio não será exibido o título.
 
-![image](/tema-padrao-3/painel-tema-pagina-produto-produtos-visualizados-recentemente.png)
+![image](/tema-padrao-3/painel-tema-pagina-produto-produtos-visualizados-recentemente.avif)
 
-![image](/tema-padrao-3/painel-tema-pagina-produto-produtos-visualizados-recentemente-2.png)
+![image](/tema-padrao-3/painel-tema-pagina-produto-produtos-visualizados-recentemente-2.avif)

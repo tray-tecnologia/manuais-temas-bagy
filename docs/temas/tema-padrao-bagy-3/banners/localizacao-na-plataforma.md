@@ -15,7 +15,7 @@ De base para cadastro em sua loja, seguem os banners utilizados no tema com suas
 * **Banner Categoria:** São banners exibidos nas páginas de catálogo (categoria). Utiliza a localização _**Banner Títulos**_. Estes banners são responsivos, desse modo, não contam com uma versão específica  para dispositivos móveis.
 
 
-![image](/tema-padrao-bagy-3/banners-localizacao.png)
+![image](/tema-padrao-bagy-3/banners-localizacao.avif)
 
 ::: info Observação:
 No momento do cadastro do Banner Home, caso queira exibir mais de uma imagem, é necessário ativar a opção **Ativar carrossel de imagens?** para que mais do que um banner seja exibido na página inicial da loja. Você pode ter mais informações sobre o cadastro de banners clicando [**aqui**.](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/44776982091924-Como-adicionar-banners-na-sua-loja-Bagy-3-0)

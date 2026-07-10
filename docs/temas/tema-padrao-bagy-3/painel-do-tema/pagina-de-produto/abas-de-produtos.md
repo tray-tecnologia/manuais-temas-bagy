@@ -2,11 +2,11 @@
 
 Esse item configura o bloco de Abas de Produtos na página de produto.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-abas.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-abas.avif)
 
 Para cadastrar ou alterar as abas que são exibidas na página de produto, acesse no painel da plataforma em **Configurações > Produto > Abas da página**.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-abas-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-abas-2.avif)
 
 #### Formas de Pagamento
 
@@ -15,6 +15,6 @@ Para a aba das Formas de Pagamento ser exibida corretamente, a configuração se
 
 Acesse **Configurações** > **Loja** >  **Geral** > **Pagamentos** e selecione a opção **Lista aberta.**
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-abas-3.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-abas-3.avif)
 
-![image](/tema-padrao-bagy-3/configuracoes-pagamento-2.png)
+![image](/tema-padrao-bagy-3/configuracoes-pagamento-2.avif)

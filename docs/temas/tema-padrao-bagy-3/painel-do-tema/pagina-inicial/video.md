@@ -7,6 +7,6 @@ Para esse bloco é possível realizar algumas configurações, tais como:
 * **Subtítulo:** Insere um subtítulo para o bloco. Lembrando que se deixar vazio o subtítulo não será exibido e quando ativa a opção **Reprodução automática** esse item fica **Inativo**.
 * **Link do vídeo do YouTube:** Campo para inserir o link completo do vídeo do YouTube. Lembrando que se esse campo ficar vazio, o bloco todo não será exibido.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-video.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-video.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-video-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-video-2.avif)

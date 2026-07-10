@@ -23,4 +23,4 @@ Para configurar a quantidade de produtos exibidos por página, acesse **Configur
 Para configurar alguns itens do menu de filtro, acesse o painel da plataforma em **Configurações > Loja > Busca > Comportamento de busca > Configurar comportamento de busca > Filtro inteligente**.
 :::
 
-![image](/tema-horizon/painel-do-tema-pagina-catalogo-listagem-de-produtos.png)
+![image](/tema-horizon/painel-do-tema-pagina-catalogo-listagem-de-produtos.avif)

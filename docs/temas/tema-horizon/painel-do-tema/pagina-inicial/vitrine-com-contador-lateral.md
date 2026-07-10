@@ -14,7 +14,7 @@ Cada bloco representa um produto com contador individual. É possível adicionar
 Os blocos podem ser reordenados para definir a sequência de exibição. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral.avif)
 
 ## Configurações da seção
 
@@ -48,14 +48,14 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-lateral-5.avif)

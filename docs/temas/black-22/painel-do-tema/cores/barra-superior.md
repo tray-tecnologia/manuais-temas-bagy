@@ -1,6 +1,6 @@
 # Cabeçalho
 
-![](/black-22/painel-tema-cores-barra-superior.png)
+![](/black-22/painel-tema-cores-barra-superior.avif)
 
 **Cor de fundo do cabeçalho:** Altera também a cor da fonte da quantidade no carrinho e do fundo do menu de subcategorias.
 

@@ -7,6 +7,6 @@ Sendo eles:
 * **Título:** edita o titulo do bloco. Lembrando que se deixar vazio não será exibido o título.
 * **Texto do botão:** edita o texto do botão. Lembrando que se deixar vazio será exibido o texto padrão do tema **Acessar blog**.
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-noticias.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-noticias.avif)
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-noticias-2.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-noticias-2.avif)

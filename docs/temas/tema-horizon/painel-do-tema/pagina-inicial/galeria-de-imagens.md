@@ -17,7 +17,7 @@ Cada bloco representa uma imagem da galeria. É possível adicionar até **20 im
 Os blocos podem ser reordenados para definir a sequência de exibição. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens.avif)
 
 ## Configurações da seção
 
@@ -48,14 +48,14 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-imagens-5.avif)

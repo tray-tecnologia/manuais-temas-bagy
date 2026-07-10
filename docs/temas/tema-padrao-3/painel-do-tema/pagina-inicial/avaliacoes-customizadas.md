@@ -15,12 +15,12 @@ Demais configurações:
 * Arrastar os blocos para reposicioná-los
 * Remover um item clicando no ícone da lixeira
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-avaliacoes-customizadas.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-avaliacoes-customizadas.avif)
 
 Também é possível inserir um título para a seção. Lembrando que se deixar vazio o título não será exibido.
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-avaliacoes-customizadas-2.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-avaliacoes-customizadas-2.avif)
 
 
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-avaliacoes-customizadas-3.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-avaliacoes-customizadas-3.avif)

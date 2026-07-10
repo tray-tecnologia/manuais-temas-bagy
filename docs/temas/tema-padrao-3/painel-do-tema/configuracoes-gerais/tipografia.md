@@ -8,4 +8,4 @@ Neste item é possível selecionar qual fonte deseja utilizar em sua loja. Lembr
 * Inter
 * Lora
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-tipografia.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-tipografia.avif)

@@ -39,14 +39,14 @@ Seção para exibir as marcas cadastradas na loja em formato de galeria ou carro
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas-3.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-galeria-de-marcas-4.avif)

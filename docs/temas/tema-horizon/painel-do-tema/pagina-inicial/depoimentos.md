@@ -22,7 +22,7 @@ Cada bloco representa um depoimento. É possível adicionar até **10 blocos**.
 Os blocos podem ser reordenados para definir a sequência de exibição. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos.avif)
 
 ## Configurações da seção
 
@@ -58,14 +58,14 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-depoimentos-5.avif)

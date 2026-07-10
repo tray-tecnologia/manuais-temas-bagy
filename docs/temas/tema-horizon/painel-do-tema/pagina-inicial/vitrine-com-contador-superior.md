@@ -37,14 +37,14 @@ Seção para exibir uma vitrine de produtos com um contador regressivo posiciona
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior-3.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-com-contador-superior-4.avif)

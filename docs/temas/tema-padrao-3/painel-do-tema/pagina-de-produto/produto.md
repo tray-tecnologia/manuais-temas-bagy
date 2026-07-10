@@ -17,17 +17,17 @@ Em **Blocos da seção** temos:
     * **Habilitar compartilhamento redes sociais:** Possibilidade de exibir ou não o compartilhamento do produto nas redes sociais.
     * **Tabela de medidas:** Possível selecionar o link de uma página personalizada com a tabela de medidas. O select exibe as páginas cadastradas no painel da plataforma em **Configurações >** **Minha loja > Páginas internas.** O conteúdo da página será exibido em um modal.
 
-    ![image](/tema-padrao-3/painel-tema-pagina-produto-produto.png)
+    ![image](/tema-padrao-3/painel-tema-pagina-produto-produto.avif)
 
 
 
-![image](/tema-padrao-3/painel-tema-pagina-produto-produto-2.png)
+![image](/tema-padrao-3/painel-tema-pagina-produto-produto-2.avif)
 
 ::: danger
 **Atenção:** Após escolher a opção de exibição do preço em destaque do produto, o mesmo deve acessar no painel da plataforma em **Marketing > Trafego > XML de produtos** e escolher a opção de acordo para que não tenha problemas com os mecanismos de buscas e seja penalizado.
 :::
 
-![image](/tema-padrao-3/painel-tema-pagina-produto-produto-3.png)
+![image](/tema-padrao-3/painel-tema-pagina-produto-produto-3.avif)
 
 
 
@@ -35,9 +35,9 @@ Em **Configurações da seção** temos:
 
 * **Habilitar compra rápida:** exibe a barra de compra fixa ao rodapé da página.
 
-![image](/tema-padrao-3/painel-tema-pagina-produto-produto-4.png)
+![image](/tema-padrao-3/painel-tema-pagina-produto-produto-4.avif)
 
-![image](/tema-padrao-3/painel-tema-pagina-produto-produto-5.png)
+![image](/tema-padrao-3/painel-tema-pagina-produto-produto-5.avif)
 
 ::: info
 **Dica:** Para saber mais sobre cadastro de produtos na plataforma, basta clicar [**aqui**](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/37608235742619-Como-cadastrar-um-produto-em-sua-loja-virtual-Tray).

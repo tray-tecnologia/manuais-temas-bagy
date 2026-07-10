@@ -1,6 +1,6 @@
 # Vitrine de Produtos
 
-![](/black-22/painel-tema-layout-vitrine-produtos.png)
+![](/black-22/painel-tema-layout-vitrine-produtos.avif)
 
 Esse grupo configura o funcionamento das vitrines de produtos na página inicial da sua loja
 

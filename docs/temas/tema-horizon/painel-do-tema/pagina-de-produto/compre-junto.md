@@ -29,6 +29,6 @@ Para habilitar o Compre junto no painel da plataforma acesse **Aplicativos** e p
 Após o recurso habilitado, acesse o painel da plataforma em **Produtos > Lista de produtos**, no produto desejado clique em **Mais opções > Opções avançadas > Compre Junto** e configure os produtos do compre junto.
 :::
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-compre-junto.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-compre-junto.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-compre-junto-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-compre-junto-2.avif)

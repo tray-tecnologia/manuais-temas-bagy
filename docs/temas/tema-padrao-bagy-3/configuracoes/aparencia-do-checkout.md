@@ -4,7 +4,7 @@ As páginas de Carrinho de Compras, Checkout e Nova Central (do cliente) não pe
 
 Para isso acesse **Configurações > Minha loja > Aparência do carrinho** ou **Loja virtual > Visual do checkout**. Neste local você encontrará todas as cores passíveis de edição, e ao lado direito em "Pré-visualização" é possível ver quais cores estão sendo alteradas e como está ficando a página.
 
-![image](/tema-padrao-bagy-3/configuracoes-aparencia-carrinho.png)
+![image](/tema-padrao-bagy-3/configuracoes-aparencia-carrinho.avif)
 
 ::: info **Observação**
 Ao acessar **Aparência do carrinho**, caso exiba uma Landing Page com algumas informações, basta clicar no "X"que fica no topo para fechá-la e poder editar as cores

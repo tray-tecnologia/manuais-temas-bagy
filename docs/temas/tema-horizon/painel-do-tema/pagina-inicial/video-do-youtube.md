@@ -35,14 +35,14 @@ Seção para exibir um único vídeo do YouTube em destaque, com título, subtí
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube-3.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-video-do-youtube-4.avif)

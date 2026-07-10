@@ -47,4 +47,4 @@ Configura a tipografia da loja, permitindo personalizar fonte, peso, estilo, tam
 * **Espaçamento entre letras dos textos:** define o espaço entre caracteres em px (padrão: 0px).
 * **Transformação de texto dos textos:** define a capitalização — **Normal**, **Maiúsculas** ou **Minúsculas**.
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-fontes.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-fontes.avif)

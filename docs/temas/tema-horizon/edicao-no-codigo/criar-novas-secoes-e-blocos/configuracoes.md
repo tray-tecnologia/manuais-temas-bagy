@@ -31,7 +31,7 @@ Uma configuração do tipo `checkbox` cria um campo checkbox. Essa configuraçã
 
 == Saída
 
-<img src="/tema-horizon/edicao-codigo-checkbox.png" />
+<img src="/tema-horizon/edicao-codigo-checkbox.avif" />
 
 :::
 
@@ -67,7 +67,7 @@ Uma configuração do tipo `radio` cria um campo radio. Essa configuração pode
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-radio.png" />
+<img src="/tema-horizon/edicao-codigo-radio.avif" />
 :::
 
 
@@ -94,7 +94,7 @@ Uma configuração do tipo `range` cria um campo slider. Essa configuração pod
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-range.png" />
+<img src="/tema-horizon/edicao-codigo-range.avif" />
 :::
 
 
@@ -136,7 +136,7 @@ Uma configuração do tipo `select` cria um campo select. Essa configuração po
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-select.png" />
+<img src="/tema-horizon/edicao-codigo-select.avif" />
 :::
 
 #### text
@@ -159,7 +159,7 @@ Uma configuração do tipo `text` cria um campo de texto. Essa configuração po
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-text.png" />
+<img src="/tema-horizon/edicao-codigo-text.avif" />
 :::
 
 #### rich\_text
@@ -180,7 +180,7 @@ Uma configuração do tipo `rich_text` cria um campo de texto multilinhas que pe
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-richtext.png" />
+<img src="/tema-horizon/edicao-codigo-richtext.avif" />
 :::
 
 #### image\_picker
@@ -200,7 +200,7 @@ Uma configuração do tipo `image_picker` cria um campo que permite o usuário s
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-imagepicker.png" />
+<img src="/tema-horizon/edicao-codigo-imagepicker.avif" />
 :::
 
 
@@ -221,7 +221,7 @@ Uma configuração do tipo `color_picker` cria um campo que permite o usuário s
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-colorpicker.png" />
+<img src="/tema-horizon/edicao-codigo-colorpicker.avif" />
 :::
 
 
@@ -248,7 +248,7 @@ Uma configuração do tipo `standard_images` cria uma visualização de uma imag
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-logo.png" />
+<img src="/tema-horizon/edicao-codigo-logo.avif" />
 :::
 
 #### header
@@ -269,7 +269,7 @@ Uma configuração do tipo `header` cria um cabeçalho dentro do bloco ou da se�
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-header.png" />
+<img src="/tema-horizon/edicao-codigo-header.avif" />
 :::
 
 #### paragraph
@@ -289,5 +289,5 @@ Uma configuração do tipo `paragraph` cria um paragrafo dentro das configuraç�
 ```
 
 == Saída
-<img src="/tema-horizon/edicao-codigo-paragraph.png" />
+<img src="/tema-horizon/edicao-codigo-paragraph.avif" />
 :::

@@ -10,4 +10,4 @@ Configura a proporção e o ajuste das imagens de produto exibidas na loja.
   * **Conter** — a imagem é redimensionada para caber inteiramente no espaço, sem cortes
   * **Preencher** — a imagem preenche todo o espaço, podendo ser cortada
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-imagem-produto.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-imagem-produto.avif)

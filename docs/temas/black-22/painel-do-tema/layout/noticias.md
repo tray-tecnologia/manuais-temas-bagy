@@ -1,6 +1,6 @@
 # Notícias
 
-![](/black-22/painel-tema-layout-noticias.png)
+![](/black-22/painel-tema-layout-noticias.avif)
 
 Esse grupo contém as configurações da exibição das notícias na página inicial.
 

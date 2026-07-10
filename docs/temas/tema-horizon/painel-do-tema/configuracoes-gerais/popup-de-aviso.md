@@ -26,6 +26,6 @@ Para que o popup seja exibido, é necessário que tenha uma imagem ou uma mensag
 * **Link do botão:** define a URL de destino ao clicar no botão. Ex: `https://google.com.br/`
 * **Abrir link do botão em nova aba:** quando ativado, o link do botão abre em uma nova aba do navegador.
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-popup-aviso.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-popup-aviso.avif)
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-popup-aviso-2.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-popup-aviso-2.avif)

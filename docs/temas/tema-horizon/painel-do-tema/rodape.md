@@ -10,7 +10,7 @@ O rodapé é dividido em **Blocos da seção** e **Configurações da seção**.
 
 Os blocos podem ser reordenados para definir a sequência de exibição.
 
-![image](/tema-horizon/painel-tema-rodape.png)
+![image](/tema-horizon/painel-tema-rodape.avif)
 
 ## Configurações da seção
 
@@ -84,4 +84,4 @@ Para cadastrar páginas institucionais acesse no painel da plataforma, em menu l
 
 Exemplo de exibição do painel:
 
-![image](/tema-horizon/painel-tema-rodape-2.gif)
+![](/tema-horizon/painel-tema-rodape-2.webm)

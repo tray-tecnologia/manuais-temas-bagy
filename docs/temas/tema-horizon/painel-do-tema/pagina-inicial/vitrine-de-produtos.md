@@ -24,9 +24,9 @@ Seção para exibir uma vitrine de produtos. Permite selecionar produtos especí
   Ao escolher os produtos desejados, clique em **Salvar**. Ou caso não deseje, clique no botão **Cancelar**. \
   Máximo de **25 produtos**.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-2.avif)
 
 ***
 
@@ -59,14 +59,14 @@ Seção para exibir uma vitrine de produtos. Permite selecionar produtos especí
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-4.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-5.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-6.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-6.avif)

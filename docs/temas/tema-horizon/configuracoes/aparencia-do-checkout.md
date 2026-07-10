@@ -7,11 +7,11 @@ Para isso acesse **Configurações > Minha loja > Aparência do carrinho** ou **
 :::tabs
 == Bagy
 
-![image](/tema-horizon/configuracoes-aparencia-carrinho.png)
+![image](/tema-horizon/configuracoes-aparencia-carrinho.avif)
 
 == Tray
 
-![image](/tema-horizon/configuracoes-aparencia-carrinho-tray.png)
+![image](/tema-horizon/configuracoes-aparencia-carrinho-tray.avif)
 
 :::
 

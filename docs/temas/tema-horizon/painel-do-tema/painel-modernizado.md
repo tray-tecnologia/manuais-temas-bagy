@@ -4,19 +4,19 @@ Esse tema inclui um painel super moderno e intuitivo. Essa nova versão conta co
 
 Essa é a nova cara do painel do nosso tema!
 
-![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor.png)
+![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor.avif)
 
-É possível **reposicionar** os elementos da pagina, para isso basta clicar no ícone ![image](/tema-horizon/painel-modernizado-icone.png) e arrastar para a posição desejada.
+É possível **reposicionar** os elementos da pagina, para isso basta clicar no ícone ![image](/tema-horizon/painel-modernizado-icone.avif) e arrastar para a posição desejada.
 
-![image](/tema-horizon/edicao-codigo-criar-novas-secoes-editor.gif)
+![](/tema-horizon/edicao-codigo-criar-novas-secoes-editor.webm)
 
 ***
 
 Também é possível **adicionar** e **remover seções** não fixas pelo editor de tema. Claro que respeitando o limite máximo de quantidade geral (inicialmente 50 seções) e limites individuais de cada seção.
 
-![image](/tema-horizon/painel-tema-painel-modernizado-2.png)
+![image](/tema-horizon/painel-tema-painel-modernizado-2.avif)
 
-![image](/tema-horizon/painel-tema-painel-modernizado-3.png)
+![image](/tema-horizon/painel-tema-painel-modernizado-3.avif)
 
 ***
 
@@ -24,7 +24,7 @@ Também é possível **adicionar** e **remover seções** não fixas pelo editor
 
 E também é possível **remover** um bloco da seção clicando no ícone de lixeira.
 
-![image](/tema-horizon/painel-tema-painel-modernizado-4.png)
+![image](/tema-horizon/painel-tema-painel-modernizado-4.avif)
 
 ***
 

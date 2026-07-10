@@ -15,4 +15,4 @@ body {
 Alterações incorretas no CSS podem afetar a aparência da loja. Recomendamos fazer testes no tema duplicado antes de publicar.
 :::
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-estilo-customizado.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-estilo-customizado.avif)

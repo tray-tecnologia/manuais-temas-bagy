@@ -4,19 +4,19 @@ Comprometidos em entregar sempre o que existe de melhor para você e sua loja, e
 
 Essa é a nova cara do painel do nosso tema!
 
-![image](/tema-padrao-bagy-3/painel-tema-painel-modernizado.png)
+![image](/tema-padrao-bagy-3/painel-tema-painel-modernizado.avif)
 
-Agora é possível **reposicionar** os elementos da pagina, para isso basta clicar no ícone ![image](/tema-padrao-bagy-3/painel-modernizado-icone.png) e arrastar para a posição desejada.
+Agora é possível **reposicionar** os elementos da pagina, para isso basta clicar no ícone ![image](/tema-padrao-bagy-3/painel-modernizado-icone.avif) e arrastar para a posição desejada.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-inicio-2.gif)
+![](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-inicio-2.webm)
 
 ***
 
 Também é possível **adicionar** e **remover seções** não fixas pelo editor de tema. Claro que respeitando o limite máximo de quantidade geral (inicialmente 50 seções) e limites individuais de cada seção.
 
-![image](/tema-padrao-bagy-3/painel-tema-painel-modernizado-2.png)
+![image](/tema-padrao-bagy-3/painel-tema-painel-modernizado-2.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-painel-modernizado-3.png)
+![image](/tema-padrao-bagy-3/painel-tema-painel-modernizado-3.avif)
 
 ***
 

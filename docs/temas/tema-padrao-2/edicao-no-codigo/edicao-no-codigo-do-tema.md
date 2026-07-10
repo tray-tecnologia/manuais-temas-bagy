@@ -16,17 +16,17 @@ Para fazer qualquer modificação mais complexa no seu tema será necessário qu
 
 Para isso **Configurações >&#x20;**_**Minha Loja > Editar layout**_, no seu tema clique em **Mais opções** e clique em Duplicar. Você poderá editar nome depois caso queira.
 
-![](/tema-padrao-2/edicao-codigo-edicao-codigo-tema.png)
+![](/tema-padrao-2/edicao-codigo-edicao-codigo-tema.avif)
 
 Após duplicar o tema você terá acesso a uma nova opção chamada _**Editar HTML**_. Será através dela que você terá acesso ao editor online da plataforma para fazer as edições.
 
-![](/tema-padrao-2/edicao-codigo-edicao-codigo-tema-2.png)
+![](/tema-padrao-2/edicao-codigo-edicao-codigo-tema-2.avif)
 
 Você poderá editar qualquer arquivo no editor de arquivos que aparecer, desde que tenha conhecimento para tal. Recomendamos que só altere os arquivos _**style.css**_ e _**style.min.css**_ que controlam os estilos do tema.
 
 No editor online os arquivos ficam a direita da nela em em exibição em lista. Os arquivos css mencionados acima estarão dentro da pasta css. Ao clicar em algum arquivo ele será carregado na parte mais a direita da tela. A imagem abaixo exemplifica isso.
 
-![](/tema-padrao-2/edicao-codigo-edicao-codigo-tema-3.png)
+![](/tema-padrao-2/edicao-codigo-edicao-codigo-tema-3.avif)
 
 Faça as alterações que quiser e salve utilizando o botão abaixo. Para que as modificações sejam refletidas na loja é necessário atualizar o arquivo css minificado, o _**style.min.css**_. Copie todo o código do arquivo _**style.css**_ e utilize uma ferramenta de minificação de css. Recomendamos a ferramenta CSS Minifier. Você pode acessar ela clicando [**aqui**](https://cssminifier.com/).
 

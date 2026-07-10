@@ -10,6 +10,6 @@ Também é possível fazer a reordenação dos blocos, clicando sobre o item e a
 Não é possível reposicionar o bloco ***Produto***. Sempre será o primeiro item a ser exibido. Ele contém as imagens do produto e suas principais informações sendo: nome, variações, valores, botão comprar, entre outros.
 :::
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-inicio.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-inicio.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-inicio.gif)
+![](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-inicio.webm)

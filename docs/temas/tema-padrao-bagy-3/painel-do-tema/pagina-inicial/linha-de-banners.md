@@ -10,9 +10,9 @@ As posições recomendadas para esses banners são: Extra 1, Extra 2, Extra 3 e 
 
 Lembrando que para esse bloco é possível selecionar **no máximo** 4 banners e que eles são responsivos, ou seja, não tem versão desktop e mobile. Lembrando também que essa seção não suporta banners do tipo carrossel de imagens.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-linha-banners.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-linha-banners.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-linha-banners-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-linha-banners-2.avif)
 
 ::: info **Vale lembrar que:**
 O cadastro dos banners é feito dentro do painel da plataforma, no menu de _**Loja virtual > Banners da loja**_

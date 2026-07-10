@@ -1,6 +1,6 @@
 # Rodapé
 
-![](/tema-padrao-2/painel-tema-cores-elementos-slide.png)
+![](/tema-padrao-2/painel-tema-cores-elementos-slide.avif)
 
 **Cor de fundo do Rodapé:** Altera também a cor da fonte do botão de newsletter.
 

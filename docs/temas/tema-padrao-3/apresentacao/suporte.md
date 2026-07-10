@@ -25,11 +25,11 @@ Informamos que para melhor atendê-lo, todo o suporte, referente ao tema ou a pl
 \
 Caso precise de algum suporte relacionado ao tema ou a plataforma Tray, entre em contato diretamente pelo painel administrativo da plataforma clicando no **ícone de atendimento** localizado na barra superior e em **Meus Chamados**, como mostrado no print abaixo.
 
-![image](/tema-padrao-3/apresentacao-suporte.png)
+![image](/tema-padrao-3/apresentacao-suporte.avif)
 
 Você também poderá abrir um chamado com a nossa equipe de Suporte Tray indo no menu lateral esquerdo, na seção de **Ajuda** e clicando em **Meus chamados**, como mostra o print abaixo:
 
-![image](/tema-padrao-3/apresentacao-suporte-2.png)
+![image](/tema-padrao-3/apresentacao-suporte-2.avif)
 
 Aproveite todos os recursos que você pode ter e configure uma loja completa para seus clientes!
 

@@ -4,6 +4,6 @@ Através dos gabaritos do tema disponibilizados para versão desktop e mobile, �
 
 **Baixe** o gabarito e confira onde fica cada banner, sua dimensão e posição:
 
-[Tray Default - Desktop - Gabarito.png](/tema-padrao-2/banners-gabarito-desktop.png)
+[Tray Default - Desktop - Gabarito.png](/tema-padrao-2/banners-gabarito-desktop.avif)
 
-![](/tema-padrao-2/banners-gabarito-desktop-2.png)
+![](/tema-padrao-2/banners-gabarito-desktop-2.avif)

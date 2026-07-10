@@ -17,4 +17,4 @@ Configura a aparência e o comportamento dos cards de produto exibidos nas lista
 * **Texto do botão de compra:** define o texto exibido no botão de compra (padrão: `Comprar`).
 * **Texto para produtos sem estoque:** define o texto exibido no botão quando o produto está sem estoque (padrão: `Avise-me`).
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-card-produto.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-card-produto.avif)

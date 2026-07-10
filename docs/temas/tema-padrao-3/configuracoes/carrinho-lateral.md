@@ -4,4 +4,4 @@ O tema possui um carrinho lateral onde são exibidos os produtos já adicionados
 
 O mesmo também possui a opção "**Recomendamos para você"** onde são exibidos alguns produtos relacionados aos que já estão no carrinho, para caso o cliente queira realizar a compra de mais algum produto. Esse item pode ser habilitado ou não pelo painel de edição do tema.
 
-![image](/tema-padrao-3/configuracoes-carrinho-lateral.png)
+![image](/tema-padrao-3/configuracoes-carrinho-lateral.avif)

@@ -2,7 +2,7 @@
 
 Com a opção de exibição dos selos habilitada via painel de edição do tema, serão exibidos junto a imagem do produto nas vitrines os selos de porcentagem de desconto, destaque, lançamento (novidade), frete grátis e adicional.
 
-![image](/tema-padrao-3/configuracoes-selos-produtos.png)
+![image](/tema-padrao-3/configuracoes-selos-produtos.avif)
 
 Os selos podem ser exibidos como texto e cor de fundo ou como imagens que são cadastradas no painel em **Imagens padrões**. Essa escolha pode ser feita junto ao painel de edição do tema. \
 Os textos para os selos também podem ser cadastrados/editados pelo editor.
@@ -11,15 +11,15 @@ Os textos para os selos também podem ser cadastrados/editados pelo editor.
 
 **Selo de Porcentagem Desconto:** O selo de % de desconto será exibido nos produtos que estejam cadastrados com um valor promocional. Essa exibição é feita de forma automática pelo tema.
 
-![image](/tema-padrao-3/configuracoes-selos-produtos-2.png)
+![image](/tema-padrao-3/configuracoes-selos-produtos-2.avif)
 
 ***
 
 **Selos de Destaque, Lançamento, Frete Grátis e Adicional:** Para ter esses selos exibidos em sua loja é necessário setá-los nos produtos desejados através do painel da plataforma, em cadastro do produto e estarem habilitados no editor de temas.&#x20;
 
-![image](/tema-padrao-3/configuracoes-selos-produtos-3.png)
+![image](/tema-padrao-3/configuracoes-selos-produtos-3.avif)
 
-![image](/tema-padrao-3/configuracoes-selos-produtos-4.png)
+![image](/tema-padrao-3/configuracoes-selos-produtos-4.avif)
 
 Em nossa loja de demonstração ([Tema Padrão 3.0](https://demo-tema-padrao-v3.encontray.com.br/)), o tamanho do selos utilizado e recomendado é de 75x23px.
 

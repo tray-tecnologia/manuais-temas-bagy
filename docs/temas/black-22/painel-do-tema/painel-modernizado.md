@@ -1,6 +1,6 @@
 # Painel Modernizado
 
-![](/black-22/painel-tema-painel-modernizado.png)
+![](/black-22/painel-tema-painel-modernizado.avif)
 
 Comprometidos em entregar sempre o que existe de melhor para você e sua loja, esse tema inclui um painel super moderno e intuitivo. Essa nova versão conta com um design mais clean e minimalista, mantendo tudo de bom que nossos cliente adoram, e adicionando novos recursos que trarão mais opções de personalização e confiabilidade.
 
@@ -12,11 +12,11 @@ A opção de **Editar tema** será exibida nos temas que estejam atualmente publ
 
 _**Em um tema publicado:**_
 
-![](/black-22/painel-tema-painel-modernizado-2.jpg)
+![](/black-22/painel-tema-painel-modernizado-2.avif)
 
 _**Em um tema instalado e não publicado:**_
 
-![](/black-22/painel-tema-painel-modernizado-3.jpg)
+![](/black-22/painel-tema-painel-modernizado-3.avif)
 
 O painel constituiu de quatro áreas principais:
 
@@ -25,7 +25,7 @@ O painel constituiu de quatro áreas principais:
 * **Conteúdo**: Destacado pelo retângulo roxo na imagem a seguir, a área do conteúdo exibe os dados e opções que cada aba fornece e que poderão ser editado por você. Uma parte importante dentro dessa área é a barra lateral, que possuem os grupos no qual as configurações estão agrupadas.
 * **Rodapé:** No rodapé, você terá as opções de sair do editor, visualizar as configurações feitas e o botão para salvar as novas alterações, que deve ser acionado após realizar as mudanças desejadas e antes de clicar para visualizar a loja.
 
-![](/black-22/painel-tema-painel-modernizado-4.png)
+![](/black-22/painel-tema-painel-modernizado-4.avif)
 
 ::: info
 **Vale lembrar que:** A qualquer momento você pode salvar as alterações feitas clicando no botão Salvar na parte de baixo do painel. Recomendamos que salve com certa frequência e não deixe a janela parada sem nenhuma interação por muito tempo, visto que isso pode invalidar a sessão, ocasionando em perca das configurações não salvas.

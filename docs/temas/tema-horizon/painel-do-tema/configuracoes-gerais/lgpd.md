@@ -17,4 +17,4 @@ Configura a barra de aviso de cookies exibida na loja em conformidade com a LGPD
 * **Texto do botão:** define o texto do botão de confirmação. Padrão: `Continuar e fechar`
 * **Link da política de privacidade:** define a URL da página de política de privacidade da loja. Ex: `https://sualoja.com.br/politica-de-privacidade`
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-lgpd.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-lgpd.avif)

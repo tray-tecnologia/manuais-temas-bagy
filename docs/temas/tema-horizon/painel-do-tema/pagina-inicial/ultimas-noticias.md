@@ -38,14 +38,14 @@ Acesse **Mais opções > Configurações** para habilitar o bloco de notícias e
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias-3.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-ultimas-noticias-4.avif)

@@ -4,6 +4,6 @@ Esse item configura o compre junto na página de produto.
 
 * **Título:** edita o titulo do bloco. Lembrando que se deixar vazio não será exibido o título.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-compre-junto.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-compre-junto.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-compre-junto-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-produto-compre-junto-2.avif)

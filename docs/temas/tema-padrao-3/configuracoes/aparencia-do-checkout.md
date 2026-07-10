@@ -4,4 +4,4 @@ As páginas de Carrinho de Compras, Checkout e Nova Central (do cliente) não pe
 
 Para isso acesse **Configurações > Minha loja > Aparência do carrinho**. Neste local você encontrará todas as cores passíveis de edição, e ao lado direito em "Pré-visualização" é possível ver quais cores estão sendo alteradas e como está ficando a página.
 
-![image](/tema-padrao-3/configuracoes-aparencia-checkout.png)
+![image](/tema-padrao-3/configuracoes-aparencia-checkout.avif)

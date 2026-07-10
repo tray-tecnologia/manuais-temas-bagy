@@ -18,4 +18,4 @@ Insira a URL completa do perfil em cada rede social para que o ícone correspond
 * **Link do Telegram**
 * **Link do TikTok**
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-redes-sociais.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-redes-sociais.avif)

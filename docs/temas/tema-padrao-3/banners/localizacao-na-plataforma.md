@@ -16,7 +16,7 @@ De base para cadastro em sua loja, seguem os banners utilizados no tema com suas
 * **Grade de Banners**: É exibido um banner grande e ao seu lado dois banners menores, um abaixo do outro. Foram utilizadas as localizações _**Extra 5, Extra 6 e Extra 7**_ para exibi-los. Estes banners também são responsivos, e portanto não contam com uma versão específica  para dispositivos móveis.
 * **Banner Categoria:** São banners exibidos nas páginas de catálogo (categoria). Utiliza a localização _**Banner Títulos**_. Estes banners são responsivos, desse modo, não contam com uma versão específica  para dispositivos móveis.
 
-![image](/tema-padrao-3/banners-localizacao-plataforma.png)
+![image](/tema-padrao-3/banners-localizacao-plataforma.avif)
 
 ::: info
 No momento do cadastro do Banner Home, caso queira exibir mais de uma imagem, é necessário ativar a opção **Ativar carrossel de imagens?** para que mais do que um banner seja exibido na página inicial da loja. Você pode ter mais informações sobre o cadastro de banners clicando [**aqui**.](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/6743567784603-Cadastrar-Banners)

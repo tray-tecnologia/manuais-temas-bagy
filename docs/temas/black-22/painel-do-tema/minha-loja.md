@@ -6,11 +6,11 @@ Na aba _**Minha Loja**_, você poderá ter acesso ao link que direciona para o l
 
 Ao acessar o link de "imagens padrões" você será direcionado para a página onde é possível fazer o upload da imagem do logotipo de sua loja. Essa imagem será utilizada tanto no cabeçalho quanto no rodapé da loja. Recomendamos colocar uma imagem que tenha um bom contraste com o fundo, para que seja de fácil visualização.
 
-![](/black-22/painel-tema-minha-loja.png)
+![](/black-22/painel-tema-minha-loja.avif)
 
 Nesta página de imagens padrões da loja, localizei o campo **Logotipo** e clique no ícone do lápis para edição, como mostra a imagem abaixo:
 
-![](/black-22/painel-tema-minha-loja-2.png)
+![](/black-22/painel-tema-minha-loja-2.avif)
 
 ::: danger
 ### **Atenção!**
@@ -29,4 +29,4 @@ Neste grupo você poderá informar as redes sociais da sua loja. Caso não queir
 * **Linkedin**
 * **Youtube**
 
-![](/black-22/painel-tema-minha-loja-3.png)
+![](/black-22/painel-tema-minha-loja-3.avif)

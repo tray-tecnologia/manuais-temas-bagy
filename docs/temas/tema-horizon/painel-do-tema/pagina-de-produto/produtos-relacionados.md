@@ -27,6 +27,6 @@ Em **Configurações da seção** temos:
 Para configurar os produtos relacionados, no painel da plataforma acesse **Produtos > Lista de produtos**, no produto desejado clique em **Mais opções > Opções avançadas > Produtos relacionados** e configure os produtos desejados.
 :::
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-relacionados.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-relacionados.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-relacionados-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-relacionados-2.avif)

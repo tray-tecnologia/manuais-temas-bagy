@@ -1,6 +1,6 @@
 # Notícias
 
-![](/tema-padrao-2/painel-tema-layout-newsletter.png)
+![](/tema-padrao-2/painel-tema-layout-newsletter.avif)
 
 Esse grupo contém as configurações da exibição das notícias na página inicial.
 

@@ -61,6 +61,6 @@ Após escolher a opção de exibição do preço em destaque, acesse **Marketing
 
 * **Tabela de medidas:** selecione uma página personalizada cadastrada na plataforma para exibir o conteúdo em um modal na página do produto. Para gerenciar as páginas, acesse **Configurações > Minha loja > Páginas internas**.
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-informacoes.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-informacoes.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-informacoes-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-informacoes-2.avif)

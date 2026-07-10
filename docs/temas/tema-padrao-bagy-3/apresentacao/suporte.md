@@ -25,6 +25,6 @@ Informamos que para melhor atendê-lo, todo o suporte, referente ao tema ou a pl
 \
 Caso precise de algum suporte relacionado ao tema ou a plataforma Bagy, entre em contato diretamente pelo painel administrativo da plataforma clicando no **menu de usuário** localizado na barra lateral, clicar no item **Central de Ajuda** e então em **Meus Chamados**, como mostrado no print abaixo.
 
-![image](/tema-padrao-bagy-3/apresentacao-suporte.png)
+![image](/tema-padrao-bagy-3/apresentacao-suporte.avif)
 
 Aproveite todos os recursos que você pode ter e configure uma loja completa para seus clientes!

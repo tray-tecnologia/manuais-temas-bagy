@@ -4,7 +4,7 @@ Os banners que aparecem com a descrição "Responsivo" no gabarito da versão mo
 
 **Baixe** o gabarito e confira onde fica cada banner, sua dimensão e posição:&#x20;
 
-[Tray Default - Mobile.png](/tema-padrao-2/banners-gabarito-mobile.png)
+[Tray Default - Mobile.png](/tema-padrao-2/banners-gabarito-mobile.avif)
 
-![](/tema-padrao-2/banners-gabarito-mobile-2.png)
+![](/tema-padrao-2/banners-gabarito-mobile-2.avif)
 

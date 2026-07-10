@@ -13,12 +13,12 @@ Os banners podem sofrer redimensionamento das imagens em alguns dispositivos e d
 **Slideshow (Versão Desktop)** \
 Dimensões do banner: **1920x600 pixels**
 
-![image](/tema-horizon/banners-dimensoes.png)
+![image](/tema-horizon/banners-dimensoes.avif)
 
 **Slideshow (Versão Mobile)** \
 Dimensões do banner: **600x700 pixels**
 
-![image](/tema-horizon/banners-dimensoes-2.png)
+![image](/tema-horizon/banners-dimensoes-2.avif)
 
 ***
 
@@ -32,7 +32,7 @@ Esses banners podem ser cadastrados no painel administrativo acessando _**Loja v
 Você pode escolher outras posições de banners para exibir em sua loja. O que está documentado aqui é a base que utilizamos caso queira se basear nela.
 :::
 
-![image](/tema-horizon/banners-dimensoes-3.png)
+![image](/tema-horizon/banners-dimensoes-3.avif)
 
 ***
 
@@ -41,7 +41,7 @@ Dimensões do banner maior: **800x800 pixels** \
 Dimensões dos demais banners: **700x373 pixels** \
 *Estes banners não possuem versões específicas para dispositivos móveis.
 
-![image](/tema-horizon/banners-dimensoes-4.png)
+![image](/tema-horizon/banners-dimensoes-4.avif)
 ***
 
 **Banner Categoria** \
@@ -49,7 +49,7 @@ Localização: **Banner Títulos** \
 Dimensões do banner: **1920x270 pixels** \
 *Estes banners não possuem versões específicas para dispositivos móveis.
 
-![image](/tema-horizon/banners-dimensoes-5.png)
+![image](/tema-horizon/banners-dimensoes-5.avif)
 
 ***
 
@@ -58,4 +58,4 @@ Localização: **Cadastrado no menu de desconto progressivo** \
 Dimensões do banner: **1410x113 pixels** \
 *Estes banners não possuem versões específicas para dispositivos móveis.
 
-![image](/tema-horizon/banners-dimensoes-6.png)
+![image](/tema-horizon/banners-dimensoes-6.avif)

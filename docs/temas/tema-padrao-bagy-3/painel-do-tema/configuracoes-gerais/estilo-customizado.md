@@ -17,5 +17,5 @@ Utilize esse campo se tiver conhecimento de CSS. Código inválido ou mal escrit
 Caso queira testar alterações sem que isso reflita para os clientes, duplique o tema e faça as edições no tema duplicado, ou saia da página sem salvar.
 :::
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-estilo-customizado.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-estilo-customizado.avif)
 

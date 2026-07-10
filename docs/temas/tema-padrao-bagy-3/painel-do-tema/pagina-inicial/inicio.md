@@ -4,8 +4,8 @@ Nesse item é possível editar algumas configurações que serão aplicadas na p
 
 Lembrando que ao clicar no ícone de olho o bloco fica desabilitado, não sendo exibido na loja.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-inicio.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-inicio.avif)
 
 Também é possível fazer a reordenação dos blocos, clicando sobre o item e arrastando-o. Com isso a exibição dos blocos na pagina inicial fica de acordo com o desejo do cliente.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-inicio-2.gif)
+![](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-inicio-2.webm)

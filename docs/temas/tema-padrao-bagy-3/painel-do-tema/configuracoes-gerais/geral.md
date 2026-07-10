@@ -11,9 +11,9 @@ Possível escolher como será o estilo dos botões, barra de busca e campos de i
 * Pouco arredondado
 * Quadrado
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-1.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-1.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-1-1.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-1-1.avif)
 
 ***
 
@@ -21,9 +21,9 @@ Possível escolher como será o estilo dos botões, barra de busca e campos de i
 
 Exibe a segunda imagem dos produtos ao passar o mouse sobre a imagem principal nas listagens de produtos da loja.
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-2.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-2.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-2-1.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-2-1.avif)
 
 ***
 
@@ -31,9 +31,9 @@ Exibe a segunda imagem dos produtos ao passar o mouse sobre a imagem principal n
 
 Altera o texto do botão comprar nas listagens de produto da loja.
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-3.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-3.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-3-1.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-3-1.avif)
 
 ***
 
@@ -41,9 +41,9 @@ Altera o texto do botão comprar nas listagens de produto da loja.
 
 Exibe as estrelas de avaliação dos produtos nas listagens de produto da loja.
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-4.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-4.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-4-1.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-4-1.avif)
 
 ***
 
@@ -51,6 +51,6 @@ Exibe as estrelas de avaliação dos produtos nas listagens de produto da loja.
 
 Exibe um carrossel de produtos recomendados no carrinho lateral de acordo com os produtos que já estão presentes no carrinho.
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-5.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-5.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-5-1.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-5-1.avif)

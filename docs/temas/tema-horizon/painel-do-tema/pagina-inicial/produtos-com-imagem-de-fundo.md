@@ -30,12 +30,12 @@ Seção para exibir produtos destacados sobre uma imagem de fundo. Ideal para ca
 * **Espessura da borda de seção:** controla a espessura da borda, variando de 0 a 10.
 * **Margem da seção:** define o espaçamento da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-produtos-com-imagem-de-fundo.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-produtos-com-imagem-de-fundo.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-produtos-com-imagem-de-fundo-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-produtos-com-imagem-de-fundo-2.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-produtos-com-imagem-de-fundo-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-produtos-com-imagem-de-fundo-3.avif)

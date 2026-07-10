@@ -4,17 +4,17 @@ Comprometidos em entregar sempre o que existe de melhor para você e sua loja, e
 
 Essa é a nova cara do painel do nosso tema!
 
-![image](/tema-padrao-3/painel-tema-painel-modernizado-5.png)
+![image](/tema-padrao-3/painel-tema-painel-modernizado-5.avif)
 
 Agora é possível reposicionar os elementos da pagina, para isso basta clicar no ícone da lateral esquerda e arrastar para a posição desejada, conforme mostra o gif abaixo.
 
-![image](/tema-padrao-3/painel-tema-painel-modernizado-2.gif)
+![](/tema-padrao-3/painel-tema-painel-modernizado-2.webm)
 
 Também é possível **adicionar** e **remover seções** não fixas pelo editor de tema. Claro que respeitando o limite máximo de quantidade geral (inicialmente 50 seções) e limites individuais de cada seção.
 
-![image](/tema-padrao-3/painel-tema-painel-modernizado-3.png)
+![image](/tema-padrao-3/painel-tema-painel-modernizado-3.avif)
 
-![image](/tema-padrao-3/painel-tema-painel-modernizado-4.png)
+![image](/tema-padrao-3/painel-tema-painel-modernizado-4.avif)
 
 ***
 

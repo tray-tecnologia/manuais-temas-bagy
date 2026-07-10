@@ -19,11 +19,11 @@ Apesar de não ser necessário duplicar para editar o código quando ele não es
 :::tabs
 == Bagy
 
-![image](/tema-horizon/edicao-codigo-tema.png)
+![image](/tema-horizon/edicao-codigo-tema.avif)
 
 == Tray
 
-![image](/tema-horizon/edicao-codigo-tema-tray.png)
+![image](/tema-horizon/edicao-codigo-tema-tray.avif)
 
 :::
 
@@ -34,17 +34,17 @@ Após duplicar o tema você terá acesso a uma nova opção chamada **Editar HTM
 :::tabs
 == Bagy
 
-![image](/tema-horizon/edicao-codigo-tema-2.png)
+![image](/tema-horizon/edicao-codigo-tema-2.avif)
 
 == Tray
 
-![image](/tema-horizon/edicao-codigo-tema-2-tray.png)
+![image](/tema-horizon/edicao-codigo-tema-2-tray.avif)
 
 :::
 
 Você poderá editar qualquer arquivo presente no tema pelo editor de arquivos. Recomendamos que tome muito cuidado para não prejudicar a exibição do tema. O editor online mostra os arquivos a esquerda da tela, em exibição em lista. Os arquivos estarão dentro de pastas. Ao clicar em algum arquivo ele será carregado na parte mais a direita da tela. A imagem abaixo exemplifica isso.
 
-![image](/tema-horizon/edicao-codigo-tema-3.png)
+![image](/tema-horizon/edicao-codigo-tema-3.avif)
 
 Faça as alterações que quiser e salve apertando no teclado as teclas **CTRL + S** ou através do botão salvar no topo superior direito da tela.
 

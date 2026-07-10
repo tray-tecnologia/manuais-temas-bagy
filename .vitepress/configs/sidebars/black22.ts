@@ -141,7 +141,7 @@ export const getBlack22Sidebar = (basePath: string): DefaultTheme.SidebarItem[] 
     },
     {
       text: 'Banners',
-      base: `${basePath}/banners-1/`,
+      base: `${basePath}/banners/`,
       items: [
         {
           text: 'Localização na Plataforma',

@@ -8,7 +8,7 @@ Neste item você consegue personalizar as variáveis de cores que controlam os a
 
 As variáveis de cores são especificadas no formato hexadecimal, RGB ou HSL muito utilizados na internet. Você poder fornecer o código no campo, ou clicar na caixa ao lado do campo para abrir o seletor de cor. Ao clicar numa cor o seletor irá preencher com o código equivalente a cor escolhida. A imagem abaixo da um exemplo desse processo.
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-cores.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-cores.avif)
 
 **Temos 10 variáveis de cores para o tema, sendo elas:**
 
@@ -23,4 +23,4 @@ As variáveis de cores são especificadas no formato hexadecimal, RGB ou HSL mui
 * **Cor das bordas:** Aplicada nas bordas dos elemento&#x73;**.**
 * **Cor do fundo:** Aplicada no fundo da loj&#x61;**.**
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-cores-2.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-cores-2.avif)

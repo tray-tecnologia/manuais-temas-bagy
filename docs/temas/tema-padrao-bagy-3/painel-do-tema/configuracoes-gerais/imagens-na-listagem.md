@@ -8,7 +8,7 @@ Possível escolher como será a exibição da imagem do produto nas vitrines, se
 * Retrato
 * Paisagem
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem.avif)
 
 
 #### **Quadrada**
@@ -17,7 +17,7 @@ A imagem será exibida na proporção 1:1
 
 Por exemplo, a imagem deve ter o tamanho 1000 x 1000 px para ser exibida corretamente
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem-2.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem-2.avif)
 
 
 #### **Retrato**
@@ -26,7 +26,7 @@ A imagem será exibida na proporção 3:4
 
 Por exemplo, a imagem deve ter o tamanho 1000 x 1333 px para ser exibida corretamente
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem-3.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem-3.avif)
 
 
 #### **Paisagem**
@@ -35,4 +35,4 @@ A imagem será exibida na proporção 16x9
 
 Por exemplo, a imagem deve ter o tamanho 1000 x 563 px para ser exibida corretamente
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem-4.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-imagem-listagem-4.avif)

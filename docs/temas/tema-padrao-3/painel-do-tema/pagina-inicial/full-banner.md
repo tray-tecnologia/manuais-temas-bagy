@@ -4,17 +4,17 @@ Para esse item é possível escolher se deseja exibir o banner ou não e escolhe
 
 As posições recomendadas para esses banners são **Banner Home Desktop** e **Banner Home Mobile**.
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-full-banner.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-full-banner.avif)
 
 ***
 
 Exibição versão Desktop:
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-full-banner-2.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-full-banner-2.avif)
 
 Exibição versão Mobile:
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-full-banner-3.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-full-banner-3.avif)
 
 ::: info
 **Vale lembrar que:** O cadastro dos banners é feito dentro do painel da plataforma, no menu de _**Marketing > Engajamento > Banners.**_ \

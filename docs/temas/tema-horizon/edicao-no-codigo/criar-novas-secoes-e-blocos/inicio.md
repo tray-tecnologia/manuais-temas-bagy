@@ -1,6 +1,6 @@
 # Criar novas seções e blocos
 
-![image](/tema-horizon/edicao-codigo-criar-novas-secoes-inicio.png)
+![image](/tema-horizon/edicao-codigo-criar-novas-secoes-inicio.avif)
 
 O Tema Horizon possui o recurso de drag and drop. Para criar esse recurso criamos um novo editor do tema com várias seções que podem ter sua ordem alterada para melhor atender as necessidades dos lojistas.
 

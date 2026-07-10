@@ -20,9 +20,9 @@ Cada bloco representa um tópico. É possível adicionar até **4 blocos**.
 Os blocos podem ser reordenados para definir a sequência de exibição. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-2.avif)
 
 ## Configurações da seção
 
@@ -58,14 +58,14 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 
 * **Imagem:** imagem principal exibida ao lado dos tópicos. Recomendado: 600x800px.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-4.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-5.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-6.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-topicos-6.avif)

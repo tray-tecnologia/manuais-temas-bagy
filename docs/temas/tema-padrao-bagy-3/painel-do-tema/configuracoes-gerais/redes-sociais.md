@@ -10,6 +10,6 @@ Neste item você poderá informar as redes sociais da sua loja. Caso não queira
 * **Youtube**
 * **LinkedIn**
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-redes-sociais.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-redes-sociais.avif)
 
-![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-redes-sociais2.png)
+![image](/tema-padrao-bagy-3/painel-tema-configuracoes-geral-redes-sociais2.avif)

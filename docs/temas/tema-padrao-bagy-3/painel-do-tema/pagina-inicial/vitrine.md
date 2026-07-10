@@ -17,13 +17,13 @@ Esse grupo configura o funcionamento das vitrines de produtos na página inicial
 
 **Tempo de troca (segundos)**: Esse item é exibido somente se **Loop automático** estiver setado. Nele é possível escolher a quantidade de segundos para que os produtos fiquem alternando, sendo de 5 à 30 segundos.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine.avif)
 
 # **Produtos específicos**
 
 Ao selecionar **Produtos específicos** em **Tipo da vitrine**, é possível escolher quais produtos deseja para formar uma vitrine.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-2.avif)
 
 Ao clicar em **Selecionar produtos**, será exibida uma lista com os produtos, basta clicar nos que deseja e em seguida no botão **Confirmar** que fica no rodapé. Para produtos que tenham variação, é possível selecionar o produto "pai" ou selecionar as variações desejadas.
 
@@ -31,15 +31,15 @@ Caso deseje procurar por um produto específico, no topo tem uma busca que pode 
 
 Se não quiser selecionar nenhum produto, basta clicar no botão **Cancelar**
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-3.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-3.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-5.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-5.avif)
 
 Para esse bloco de produtos é possível selecionar no máximo 16 produtos.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-6.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-6.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-4.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-vitrine-4.avif)
 ::: info **Dica:**
 Para saber mais sobre cadastro de produtos na plataforma, basta clicar [**aqui**.](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/44774449482004-Cadastrando-um-produto-na-sua-loja-Bagy-3-0)
 :::

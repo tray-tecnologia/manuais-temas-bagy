@@ -8,7 +8,7 @@ Caso queira fazer testes mas sem que isso reflita para os clientes da sua loja, 
 
 As variáveis de cores são especificadas no formato hexadecimal, RGB ou HSL muito utilizados na internet. Você poder fornecer o código no campo, ou clicar na caixa ao lado do campo para abrir o seletor de cor. Ao clicar numa cor o seletor irá preencher com o código equivalente a cor escolhida. A imagem abaixo da um exemplo desse processo.
 
-![image](/tema-horizon/edicao-codigo-colorpicker.png)
+![image](/tema-horizon/edicao-codigo-colorpicker.avif)
 
 **Nesse item, temos 6 variáveis de cores para o tema, sendo elas:**
 
@@ -19,6 +19,6 @@ As variáveis de cores são especificadas no formato hexadecimal, RGB ou HSL mui
 * **Cor das bordas:** Aplicada nas bordas dos elemento.
 * **Cor do fundo:** Aplicada no fundo da loja.
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-cores-2.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-cores-2.avif)
 
 Lembrando que alguns blocos também possuem edição de cores especificas para eles, veremos mais a seguir.

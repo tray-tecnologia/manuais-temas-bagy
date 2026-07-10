@@ -11,10 +11,10 @@ As variáveis em questão são:
 * **ag\_atendimento:** Horário de atendimento
 * **ag\_mensagem\_rodapé:** Mensagem final do rodapé, geralmente contendo razão social, CNPJ, endereço, ...
 
-![image](/tema-padrao-3/configuracoes-textos-informacoes.png)
+![image](/tema-padrao-3/configuracoes-textos-informacoes.avif)
 
 Para configurar essas variáveis basta acessar no menu lateral esquerdo,  em **Configurações** **>** _**Minha loja > Textos e mensagens,**_ como mostra a imagem abaixo.
 
-![image](/tema-padrao-3/configuracoes-textos-informacoes-2.png)
+![image](/tema-padrao-3/configuracoes-textos-informacoes-2.avif)
 
-![image](/tema-padrao-3/configuracoes-textos-informacoes-3.png)
+![image](/tema-padrao-3/configuracoes-textos-informacoes-3.avif)

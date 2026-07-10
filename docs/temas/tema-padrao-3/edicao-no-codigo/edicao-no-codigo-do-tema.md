@@ -19,17 +19,17 @@ Para isso acesse no menu lateral esquerdo,  em **Configurações** **>** _**Minh
 Apesar de não ser necessário duplicar para editar o código quando ele não está publicado, recomendamos que o faça. Assim, caso tiver algum problema você terá uma cópia de segurança.
 :::
 
-![image](/tema-padrao-3/edicao-codigo-edicao-codigo-tema.png)
+![image](/tema-padrao-3/edicao-codigo-edicao-codigo-tema.avif)
 
 ### Editando o código
 
 Após duplicar o tema você terá acesso a uma nova opção chamada **Editar HTML**. Será através dela que você terá acesso ao editor online da plataforma para fazer as edições.
 
-![image](/tema-padrao-3/edicao-codigo-edicao-codigo-tema-2.png)
+![image](/tema-padrao-3/edicao-codigo-edicao-codigo-tema-2.avif)
 
 Você poderá editar qualquer arquivo presente no tema pelo editor de arquivos. Recomendamos que tome muito cuidado para não prejudicar a exibição do tema. O editor online mostra os arquivos a esquerda da tela, em exibição em lista. Os arquivos estarão dentro de pastas. Ao clicar em algum arquivo ele será carregado na parte mais a direita da tela. A imagem abaixo exemplifica isso.
 
-![image](/tema-padrao-3/edicao-codigo-edicao-codigo-tema-3.png)
+![image](/tema-padrao-3/edicao-codigo-edicao-codigo-tema-3.avif)
 
 Faça as alterações que quiser e salve apertando no teclado as teclas **CTRL + S** ou através do botão salvar no topo superior direito da tela.
 

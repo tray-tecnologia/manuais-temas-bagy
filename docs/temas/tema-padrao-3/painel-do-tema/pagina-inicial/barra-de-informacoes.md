@@ -6,7 +6,7 @@ Para esse bloco é possível realizar algumas configurações, tais como:
 * Inserir o titulo e a descrição
 * Arrastar os blocos para reposiciona-los
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-barra-informacoes.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-barra-informacoes.avif)
 
 Temos quatro itens com ícones pre-definidos:
 
@@ -15,4 +15,4 @@ Temos quatro itens com ícones pre-definidos:
 * **Ícone devolução**
 * **Ícone cadeado**
 
-![image](/tema-padrao-3/painel-tema-pagina-inicial-barra-informacoes-2.png)
+![image](/tema-padrao-3/painel-tema-pagina-inicial-barra-informacoes-2.avif)

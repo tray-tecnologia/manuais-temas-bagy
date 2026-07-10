@@ -28,12 +28,12 @@ Para cadastrar as marcas no painel da plataforma e ter o seu link acesse: **Prod
 
 Lembrando que é possível cadastrar no **máximo 10** marcas.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas-2.avif)
 
 **Configurações da seção:** É possível selecionar se deseja exibir o nome da marca.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas-3.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas-3.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas-4.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-marcas-4.avif)

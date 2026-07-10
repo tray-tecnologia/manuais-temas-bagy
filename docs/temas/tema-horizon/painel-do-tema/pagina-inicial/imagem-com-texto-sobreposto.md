@@ -35,14 +35,14 @@ Seção para exibir uma imagem com título, texto e botão sobrepostos à imagem
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto-3.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-imagem-com-texto-sobreposto-4.avif)

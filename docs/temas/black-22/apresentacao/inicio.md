@@ -1,6 +1,6 @@
 # Apresentação
 
-![](/black-22/apresentacao-inicio.jpg)
+![](/black-22/apresentacao-inicio.avif)
 
 O conteúdo deste manual e suas instruções se aplicam ao tema **Black 22**. \
 Você pode acessar a loja de demonstração deste tema através do link abaixo:

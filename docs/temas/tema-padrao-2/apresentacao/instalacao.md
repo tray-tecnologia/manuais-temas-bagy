@@ -6,4 +6,4 @@ Para publicar um tema presente em sua lista de temas instalados, basta localizar
 
 E não se preocupe, caso tenha feito personalizações e alterações em um tema anterior, elas ainda estarão disponíveis nessa mesma página, na parte de **Temas Instalados e não publicados**.
 
-![](/tema-padrao-2/apresentacao-instalacao.png)
+![](/tema-padrao-2/apresentacao-instalacao.avif)

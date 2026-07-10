@@ -26,9 +26,9 @@ Cada bloco representa um banner secundário exibido ao lado do banner principal.
 Os blocos podem ser reordenados para definir a sequência dos banners secundários. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-2.avif)
 
 ## Configurações da seção
 
@@ -78,16 +78,16 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Cor de fundo do botão:** define a cor de fundo do botão de ação.
 * **Cor de texto do botão:** define a cor do texto do botão de ação.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-4.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-5.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-6.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-6.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-7.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-em-grid-7.avif)

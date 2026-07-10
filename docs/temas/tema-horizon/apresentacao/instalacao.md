@@ -9,9 +9,9 @@ E não se preocupe, caso tenha feito personalizações e alterações em um tema
 :::brands
 
 @tray
-![image](/tema-horizon/apresentacao-instalacao.png)
+![image](/tema-horizon/apresentacao-instalacao.avif)
 
 @bagy
-![image](/tema-horizon/apresentacao-instalacao-bagy.png)
+![image](/tema-horizon/apresentacao-instalacao-bagy.avif)
 
 :::

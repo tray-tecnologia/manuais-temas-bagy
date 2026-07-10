@@ -15,7 +15,7 @@ Cada bloco representa um botão. É possível adicionar até **6 blocos**.
 Os blocos podem ser reordenados para definir a sequência de exibição dos botões. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao.avif)
 
 ## Configurações da seção
 
@@ -46,12 +46,12 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao-3.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-botao-com-acao-4.avif)

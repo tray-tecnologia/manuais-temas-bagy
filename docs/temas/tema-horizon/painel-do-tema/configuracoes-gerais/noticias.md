@@ -8,4 +8,4 @@ Configura a exibição das imagens de notícias na página inicial e na página 
 Para cadastrar e gerenciar as notícias, acesse **Notícias da Loja** no painel administrativo.
 :::
 
-![image](/tema-horizon/painel-tema-configuracoes-geral-noticias.png)
+![image](/tema-horizon/painel-tema-configuracoes-geral-noticias.avif)

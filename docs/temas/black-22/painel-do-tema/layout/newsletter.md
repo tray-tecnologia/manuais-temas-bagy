@@ -1,6 +1,6 @@
 # Newsletter
 
-![](/black-22/painel-tema-layout-newsletter.png)
+![](/black-22/painel-tema-layout-newsletter.avif)
 
 Esse grupo contém as configurações da exibição do formulário de newsletter na página inicial.
 

@@ -11,10 +11,10 @@ As variáveis em questão são:
 * **ag\_atendimento:** Horário de atendimento
 * **ag\_mensagem\_rodapé:** Mensagem final do rodapé, geralmente contendo razão social, CNPJ, endereço, ...
 
-![image](/tema-padrao-bagy-3/configuracoes-textos.png)
+![image](/tema-padrao-bagy-3/configuracoes-textos.avif)
 
 Para configurar essas variáveis basta acessar no menu lateral esquerdo,  em **Configurações > Minha loja > Textos e mensagens,** como mostra a imagem abaixo.
 
-![image](/tema-padrao-bagy-3/configuracoes-textos-2.png)
+![image](/tema-padrao-bagy-3/configuracoes-textos-2.avif)
 
-![image](/tema-padrao-bagy-3/configuracoes-textos-3.png)
+![image](/tema-padrao-bagy-3/configuracoes-textos-3.avif)

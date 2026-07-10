@@ -26,9 +26,9 @@ Cada bloco representa um banner. É possível adicionar até **8 banners**.
 Os blocos podem ser reordenados para definir a sequência dos banners. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-2.avif)
 
 ## Configurações da seção
 
@@ -60,14 +60,14 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-4.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-5.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-6.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-banners-6.avif)

@@ -31,9 +31,9 @@ Cada bloco representa um banner do carrossel. É possível adicionar até **6 ba
 Os blocos podem ser reordenados para definir a sequência dos banners. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-2.avif)
 
 ## Configurações da seção
 
@@ -54,12 +54,12 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Imagem de fundo da seção:** imagem exibida ao fundo da seção. Recomendado: 1600x400px com até 250kb.
 * **Imagem fixa de fundo:** quando ativado, a imagem de fundo fica fixa ao rolar a página (efeito parallax).
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-slideshow-5.avif)

@@ -19,7 +19,7 @@ Cada bloco representa uma aba com seus produtos. É possível adicionar até **4
 Os blocos podem ser reordenados para definir a sequência das abas. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas.avif)
 
 ## Configurações da seção
 
@@ -53,14 +53,14 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-2.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-vitrine-de-produtos-em-abas-5.avif)

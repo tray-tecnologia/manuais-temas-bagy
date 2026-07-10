@@ -2,7 +2,7 @@
 
 A aba Banners permite fazer a configuração de exibição do banner principal, o Banner Home.&#x20;
 
-![](/tema-padrao-2/painel-tema-banners.png)
+![](/tema-padrao-2/painel-tema-banners.avif)
 
 ### Configurações do slide
 

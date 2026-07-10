@@ -14,10 +14,10 @@ Demais configurações:
 * Arrastar os blocos para reposicioná-los
 * Remover um item clicando no ícone da lixeira
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-depoimentos-customizados.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-depoimentos-customizados.avif)
 
 Também é possível inserir um título para a seção. Lembrando que se deixar vazio o título não será exibido.
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-depoimentos-customizados-2.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-depoimentos-customizados-2.avif)
 
-![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-depoimentos-customizados-3.png)
+![image](/tema-padrao-bagy-3/painel-do-tema-pagina-inicial-depoimentos-customizados-3.avif)

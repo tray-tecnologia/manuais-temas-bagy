@@ -14,4 +14,4 @@ Em **Local de Exibição** selecione a posição **Banner Titulos (Exibido em to
 E em **Selecione as categorias abaixo** selecione a categoria desejada ou para exibir em todas as categorias
 :::
 
-![image](/tema-horizon/painel-do-tema-pagina-catalogo-topo-da-listagem.png)
+![image](/tema-horizon/painel-do-tema-pagina-catalogo-topo-da-listagem.avif)

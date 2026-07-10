@@ -11,4 +11,4 @@ Em **Configurações da seção** temos:
 Para cadastrar a descrição da categoria acesse no painel da plataforma, em menu lateral esquerdo **Produtos > Categorias**
 :::
 
-![image](/tema-horizon/painel-do-tema-pagina-catalogo-descricao-da-categoria.png)
+![image](/tema-horizon/painel-do-tema-pagina-catalogo-descricao-da-categoria.avif)

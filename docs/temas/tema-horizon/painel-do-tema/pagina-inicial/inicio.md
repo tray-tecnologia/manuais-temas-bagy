@@ -4,7 +4,7 @@ Nesse item é possível editar algumas configurações que serão aplicadas na p
 
 Lembrando que ao clicar no ícone de olho o bloco fica desabilitado, não sendo exibido na loja.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-inicio.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-inicio.avif)
 
 Também é possível fazer a reordenação dos blocos, clicando sobre o item e arrastando-o. Com isso a exibição dos blocos na pagina inicial fica de acordo com o desejo do cliente.
 
@@ -12,4 +12,4 @@ Também é possível fazer a reordenação dos blocos, clicando sobre o item e a
 
 Exemplo de exibição do painel:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-inicio.gif)
+![](/tema-horizon/painel-do-tema-pagina-inicial-inicio.webm)

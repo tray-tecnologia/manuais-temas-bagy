@@ -6,7 +6,7 @@ Outra parte importante de todas as lojas são as Formas de Pagamento. Cartão de
 A plataforma disponibiliza vários intermediadores de pagamentos em sua plataforma. Alguns desses intermediadores necessitam de uma contratação prévia. Caso precise de mais ajuda para configurar formas de pagamento na sua loja, clique [**aqui**](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/6734720000795-Configura%C3%A7%C3%B5es-gerais-das-formas-de-pagamento) para acessar um artigo que trata exatamente dessa questão.
 :::
 
-![image](/tema-horizon/configuracoes-pagamento.png)
+![image](/tema-horizon/configuracoes-pagamento.avif)
 
 ***
 
@@ -16,6 +16,6 @@ E será possível escolher:
 - **Exibir preço parcelado junto do preço do produto. Selecione no máximo 3 ítens.**
 - **Selecionar Formas de Parcelamento**
 
-![image](/tema-horizon/configuracoes-pagamento-2.png)
+![image](/tema-horizon/configuracoes-pagamento-2.avif)
 
-![image](/tema-horizon/configuracoes-pagamento-3.png)
+![image](/tema-horizon/configuracoes-pagamento-3.avif)

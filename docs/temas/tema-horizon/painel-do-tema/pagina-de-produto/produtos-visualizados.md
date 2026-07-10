@@ -23,6 +23,6 @@ Em **Configurações da seção** temos:
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-visualizados.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-visualizados.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-produto-visualizados-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-produto-visualizados-2.avif)

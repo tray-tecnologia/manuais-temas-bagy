@@ -24,11 +24,11 @@ Caso precise de algum suporte relacionado ao tema ou a plataforma, entre em cont
 :::tabs
 == Bagy
 
-![image](/tema-horizon/apresentacao-suporte.png)
+![image](/tema-horizon/apresentacao-suporte.avif)
 
 == Tray
 
-![image](/tema-horizon/apresentacao-suporte-tray.png)
+![image](/tema-horizon/apresentacao-suporte-tray.avif)
 
 :::
 

@@ -10,7 +10,7 @@ O cabeçalho é dividido em **Blocos da seção** e **Configurações da seção
 
 Os blocos podem ser reordenados para definir a sequência de exibição.
 
-![image](/tema-horizon/painel-tema-cabecalho-secao.png)
+![image](/tema-horizon/painel-tema-cabecalho-secao.avif)
 
 ## Configurações da seção
 
@@ -96,7 +96,7 @@ Ao acessar qualquer um dos menus, é possível definir a fonte dos itens:
 * **Páginas:** menu gerado a partir das páginas institucionais.
 * **Personalizado:** menu construído manualmente.
 
-![image](/tema-horizon/painel-tema-cabecalho.png)
+![image](/tema-horizon/painel-tema-cabecalho.avif)
 
 Com a opção **Personalizado** selecionada, clique em **Adicionar Item** para inserir cada entrada do menu:
 
@@ -107,9 +107,9 @@ Com a opção **Personalizado** selecionada, clique em **Adicionar Item** para i
 
 Após configurar, clique em **Salvar** para aplicar ou **Cancelar** para descartar as alterações.
 
-![image](/tema-horizon/painel-tema-cabecalho-2.png)
+![image](/tema-horizon/painel-tema-cabecalho-2.avif)
 
-![image](/tema-horizon/painel-tema-cabecalho-3.png)
+![image](/tema-horizon/painel-tema-cabecalho-3.avif)
 
 Configurações adicionais dos menus:
 
@@ -131,4 +131,4 @@ E para cadastrar páginas institucionais acesse no painel da plataforma, em menu
 
 Exemplo de exibição do painel:
 
-![image](/tema-horizon/painel-tema-cabecalho.gif)
+![](/tema-horizon/painel-tema-cabecalho.webm)

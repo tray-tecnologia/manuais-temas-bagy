@@ -9,7 +9,7 @@ Foram utilizados nesse tema as seguintes localizações:
 * **Banners Linha**: São banners que ocupam toda a largura do site. Utiliza a localização _**Extra 4**_ para a versão desktop e _**Extra 5**_ para versão mobile.
 * **Banner Categoria:** São banners exibidos nas páginas de catálogo (categoria). Utiliza a localização _**Banner Títulos**_. Estes banners são responsivos, desse modo, não contam com uma versão específica  para dispositivos móveis.
 
-![](/tema-padrao-2/banners-localizacao-plataforma.png)
+![](/tema-padrao-2/banners-localizacao-plataforma.avif)
 
 ::: info
 **Vale lembrar que:** Vale lembrar que esses são os banners que foram utilizados nesse tema. Outras posições não são abrangidas pelo tema.

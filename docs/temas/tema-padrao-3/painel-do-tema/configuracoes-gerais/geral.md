@@ -12,9 +12,9 @@ Possível escolher como será o estilo dos botões, barra de busca e campos de i
 * Pouco arredondado
 * Quadrado
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-2.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-2.avif)
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-3.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-3.avif)
 
 ***
 
@@ -22,9 +22,9 @@ Possível escolher como será o estilo dos botões, barra de busca e campos de i
 
 Exibe a segunda imagem dos produtos ao passar o mouse sobre a imagem principal nas listagens de produtos da loja.
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-4.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-4.avif)
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral.avif)
 
 ***
 
@@ -32,9 +32,9 @@ Exibe a segunda imagem dos produtos ao passar o mouse sobre a imagem principal n
 
 Altera o texto do botão comprar nas listagens de produto da loja.
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-5.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-5.avif)
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-6.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-6.avif)
 
 ***
 
@@ -42,9 +42,9 @@ Altera o texto do botão comprar nas listagens de produto da loja.
 
 Exibe as estrelas de avaliação dos produtos nas listagens de produto da loja.
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-7.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-7.avif)
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-8.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-8.avif)
 
 ***
 
@@ -52,6 +52,6 @@ Exibe as estrelas de avaliação dos produtos nas listagens de produto da loja.
 
 Exibe um carrossel de produtos recomendados no carrinho lateral de acordo com os produtos que já estão presentes no carrinho.
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-9.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-9.avif)
 
-![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-10.png)
+![image](/tema-padrao-3/painel-tema-configuracoes-gerais-geral-10.avif)

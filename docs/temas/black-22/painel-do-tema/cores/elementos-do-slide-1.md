@@ -1,6 +1,6 @@
 # Selo
 
-![](/black-22/painel-tema-cores-elementos-slide-1.png)
+![](/black-22/painel-tema-cores-elementos-slide-1.avif)
 
 **Cor do texto do Selo:** Altera a cor da fonte ou ícone do selo.
 

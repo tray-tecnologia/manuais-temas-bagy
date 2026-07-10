@@ -20,9 +20,9 @@ Cada bloco representa um item com imagem e texto. É possível adicionar até **
 Os blocos podem ser reordenados para definir a sequência de exibição. \
 Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no ícone de lixeira.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-2.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-2.avif)
 
 ## Configurações da seção
 
@@ -55,12 +55,12 @@ Também podem ser ocultos ao clicar no ícone de olho, e excluídos ao clicar no
 * **Margem de cima da seção:** define o espaçamento superior da seção, variando controle de 0 a 10.
 * **Margem de baixo da seção:** define o espaçamento inferior da seção, variando controle de 0 a 10.
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-3.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-3.avif)
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-4.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-4.avif)
 
 ***
 
 Exibição da seção - versão Desktop:
 
-![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-5.png)
+![image](/tema-horizon/painel-do-tema-pagina-inicial-texto-com-imagem-5.avif)

@@ -1,6 +1,6 @@
 # Editor
 
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-editor.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-editor.avif)
 
 O editor do Tema Padrão 3.0 foi criado pensando no recurso drag and drop desde o início. Assim conseguimos otimizar cada parte dele para que funcione da melhor maneira possível.&#x20;
 
@@ -36,4 +36,4 @@ A pasta `configs/editor` guarda as configurações das seções que são carrega
 
 O print abaixo mostra essa estrutura, focando principalmente nessa pasta `configs/editor` onde pode ser visto todos as seções que o Tema Padrão 3.0 disponibiliza.
 
-![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-editor-2.png)
+![image](/tema-padrao-3/edicao-codigo-criar-novas-secoes-blocos-editor-2.avif)
